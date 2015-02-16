@@ -1,25 +1,25 @@
-Episode,Label
-urn:cite:cycle:tabula.1,"The death of Penthesilea"
-urn:cite:cycle:tabula.2,"The death of Thersites"
-urn:cite:cycle:tabula.3,"The death of Memnon"
-urn:cite:cycle:tabula.4,"Ajax protects the fallen Achilles"
-urn:cite:cycle:tabula.5,"Ajax and Odysseus bear off the body of Achilles"
-urn:cite:cycle:tabula.6,"Thetis and the Muses mourn Achilles"
-urn:cite:cycle:tabula.7,"The madness of Ajax"
-urn:cite:cycle:tabula.8,"The death of Paris"
-urn:cite:cycle:tabula.9,"Eurypylus arrives at Troy"
-urn:cite:cycle:tabula.10,"Neoptolemos kills Eurypylus"
-urn:cite:cycle:tabula.11,"Theft of the Palladion"
-urn:cite:cycle:tabula.12,"Procession of the Torjan Horse"
-urn:cite:cycle:tabula.13,"Priam leads Sinon into Troy"
-urn:cite:cycle:tabula.14,"The maddness of Cassandra"
-urn:cite:cycle:tabula.15,"The rape of Cassandra"
-urn:cite:cycle:tabula.16,"The death of Priam"
-urn:cite:cycle:tabula.17,"Meeting of Menelaus and Helen"
-urn:cite:cycle:tabula.18,"Aeneas receives the Penates "
-urn:cite:cycle:tabula.19,"Demophon and Acamas rescue Aethra"
-urn:cite:cycle:tabula.20,"The party of Aeneas flee Troy"
-urn:cite:cycle:tabula.21,"The Trojans mourn the loss of Troy"
-urn:cite:cycle:tabula.22,"Odysseus visits the mourning Trojans"
-urn:cite:cycle:tabula.23,"The sacrifice of Polyxena"
-urn:cite:cycle:tabula.24,"Aeneas and his party sail from Troy"
+Episode,Label,Epic
+urn:cite:cycle:tabula.1,"The death of Penthesilea",Aethiopis
+urn:cite:cycle:tabula.2,"The death of Thersites",Aethiopis
+urn:cite:cycle:tabula.3,"The death of Memnon",Aethiopis
+urn:cite:cycle:tabula.4,"Ajax protects the fallen Achilles",Aethiopis
+urn:cite:cycle:tabula.5,"Ajax and Odysseus bear off the body of Achilles",Aethiopis
+urn:cite:cycle:tabula.6,"Thetis and the Muses mourn Achilles",Aethiopis
+urn:cite:cycle:tabula.7,"The madness of Ajax",Aethiopis
+urn:cite:cycle:tabula.8,"The death of Paris",Little Iliad
+urn:cite:cycle:tabula.9,"Eurypylus arrives at Troy",Little Iliad
+urn:cite:cycle:tabula.10,"Neoptolemos kills Eurypylus",Little Iliad
+urn:cite:cycle:tabula.11,"Theft of the Palladion",Little Iliad
+urn:cite:cycle:tabula.12,"Procession of the Torjan Horse",Little Iliad
+urn:cite:cycle:tabula.13,"Priam leads Sinon into Troy",Little Iliad
+urn:cite:cycle:tabula.14,"The maddness of Cassandra",Little Iliad
+urn:cite:cycle:tabula.15,"The rape of Cassandra",Iliupersis
+urn:cite:cycle:tabula.16,"The death of Priam",Iliupersis
+urn:cite:cycle:tabula.17,"Meeting of Menelaus and Helen",Iliupersis
+urn:cite:cycle:tabula.18,"Aeneas receives the Penates ",Iliupersis
+urn:cite:cycle:tabula.19,"Demophon and Acamas rescue Aethra",Iliupersis
+urn:cite:cycle:tabula.20,"The party of Aeneas flee Troy",Iliupersis
+urn:cite:cycle:tabula.21,"The Trojans mourn the loss of Troy",Iliupersis
+urn:cite:cycle:tabula.22,"Odysseus visits the mourning Trojans",Iliupersis
+urn:cite:cycle:tabula.23,"The sacrifice of Polyxena",Iliupersis
+urn:cite:cycle:tabula.24,"Aeneas and his party sail from Troy",Iliupersis
