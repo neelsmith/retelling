@@ -19,14 +19,13 @@
     </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preface</head>
+            <div n="preface">
+      
                 
                 <ab n="1"><damage></damage>ρηον μαθε ταξιν Ομηρος οφρα δαεις πασης μετρον εχης σοφ<unclear></unclear>ας </ab>
             </div>
             
-            <div>
-                <head>Contents</head>
+            <div n="contents">
                 <ab n="1">ιλιου περσις</ab>
                     <ab n="2">κατα στησχορον</ab>
                     <ab n="3">τρωικος</ab>
@@ -39,8 +38,7 @@
                     <ab n="10">λεσχην πυρραιον</ab>
             </div>
             
-            <div>
-                <head>Stele</head>
+            <div n="stele">
                 <ab n="1">οι δ αχαιοι τιχος τεχαι</ab>
                 <ab n="2">ταφρον ποιουνται πε</ab>
                 <ab n="3">ριτας ναυς αμφοτε<unclear>ρ</unclear></ab>
@@ -156,8 +154,9 @@
                 <ab n="113"></ab>
                                           
             </div>
-            <div>
-                <head>Captions</head>
+            <div n="Iliad_1">
+            </div>
+            <div n="aethiopis_1">
                 <ab>εσιλεια
                     αχιλλευς </ab>
                 <ab>αχι<unclear>λλε</unclear>υς 
@@ -173,6 +172,8 @@
                 <ab>αιας 
                     μ<unclear></unclear>ης</ab>
             </div>
+            <div n="littleIliad_1"></div>
+            <div n="iliupersis_1"></div>
         </body>
     </text>
 </TEI>
