@@ -19,14 +19,16 @@
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div  n="Cyrpia">
             <head>Τοῦ αὐτοῦ περὶ τῶν <title>Κυπρίων</title> λεγομένων ποιημάτων ⁑</head>
 
-            <p>Ἐπιβάλλει τούτοις τὰ λεγόμενα <title>Κύπρια</title> ἐν βιβλΐοις φερόμενα ἕνδεκα· ὧν
+            <ab n="1">Ἐπιβάλλει τούτοις τὰ λεγόμενα <title>Κύπρια</title> ἐν βιβλΐοις φερόμενα ἕνδεκα· ὧν
                περὶ τῆς γραφῆς ὕστερον ἐροῦμεν· ἵ̈να μὴ τὸν ἑξῆς λόγον νῦν ἐμποδίζωμεν· τὰ δὲ
-               περιέχοντά, ἐστὶ ταῦτα· <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
+               περιέχοντά, ἐστὶ ταῦτα·</ab>
+            <ab n="2"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
                βουλεύεται μετὰ τῆς <persName n="urn:cite:hmt:pers.pers19">Θέτιδος</persName> περὶ
-               τοῦ Τρωϊκοῦ πολέμου· παραγενομένη δὲ <persName n="urn:cite:hmt:pers.pers156"
+               τοῦ Τρωϊκοῦ πολέμου·</ab>
+            <ab n="3">παραγενομένη δὲ <persName n="urn:cite:hmt:pers.pers156"
                   >Ἔρις</persName> εὐωχουμένων τῶν θεῶν ἐν τοῖς <persName
                   n="urn:cite:hmt:pers.pers184">Πηλέως</persName> γάμοις νεῖκος περὶ κάλλους
                ἐνίστησιν, <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾷ</persName>· <persName
@@ -38,7 +40,8 @@
                   n="urn:cite:hmt:pers.pers104">Ἑρμοῦ</persName> πρὸς τὴν κρίσιν ἄγονται· καὶ
                προκρίνει τὴν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName> ἐπαρθεὶς
                τοῖς <persName n="urn:cite:hmt:pers.pers94">Ἑλένης</persName> γάμοις <persName
-                  n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName>· ἔπειτα δὲ <persName
+                  n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName>·</ab>
+            <ab n="4">ἔπειτα δὲ <persName
                   n="urn:cite:hmt:pers.pers194">Ἀφροδίτης</persName> ὑ̈ποθεμένης, ναυπηγεῖται· καὶ
                   <persName n="urn:cite:hmt:pers.pers507">Ἕλενος</persName> περὶ τῶν μελλόντων
                αὐτοῖς προθεσπίζει· καὶ ἡ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName>
@@ -129,10 +132,11 @@
                συχνὰς τῶν περιοικίδων πόλεων· καὶ Τρωΐλον φονεύει· Λυκάονά τε Πάτροκλος εἰς Λῆμνον
                ἀγαγὼν, ἀπεμπολᾷ· καὶ ἐκ τῶν λαφύρων Ἀχϊλλεὺς μὲν Βρισηΐδα γέρας λαμβάνει· Χρϋσηΐδα
                δὲ Ἀγαμέμνων· ἔπειτά ἐστὶ Παλαμήδους θάνατος, καὶ Διὸς βουλὴ ὅπως ἐπικουφίσῃ τοὺς
-               Τρῶας Ἀχϊλλέα τῆς συμμαχίας τῆς Ἑλληνικῆς ἀποστήσας· καὶ <choice>
+               Τρῶας Ἀχϊλλέα τῆς συμμαχίας τῆς Ἑλληνικῆς ἀποστήσας·</ab>
+            <ab n="26">καὶ <choice>
                   <abbr>κτάλογος</abbr>
                   <expan>κατάλογος</expan>
-               </choice> τῶν τοῖς Τρωσὶ συμμαχησάντων ⁑ </p>
+               </choice> τῶν τοῖς Τρωσὶ συμμαχησάντων ⁑ </ab>
          </div>
 
       </body>

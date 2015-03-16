@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory xmlns="http://chs.harvard.edu/xmlns/cts" tiversion="5.0.rc.1">
+    <ctsnamespace abbr="greekLit" ns="http://chs.harvard.edu/">
+        <description xml:lang="eng">The CHS inventory of Greek literary texts</description>
+    </ctsnamespace>
+    
+    <textgroup
+        urn="urn:cts:greekLit:tlg4036:">
+        <groupname
+            xml:lang="eng">Proclus</groupname>
+        <work
+            urn="urn:cts:greekLit:tlg4036.tlg023:"
+            xml:lang="grc">
+            <title
+                xml:lang="eng">Chrestomathy</title>
+            <edition
+                urn="urn:cts:greekLit:tlg4036.tlg023.omega1_12:">
+                <label
+                    xml:lang="eng">Escorial, Omega 1.12</label>
+                <description
+                    xml:lang="eng">Edition of the Cypria from the Chrestomathy as it appears in the Escorial Omega 1.12 MS</description>
+                
+                <online docname="proclus-allen.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="section" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="paragraph" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:ab[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+            
+            
+            
+            
+            
+            <edition
+                urn="urn:cts:greekLit:tlg4036.tlg023.msA:">
+                <label
+                    xml:lang="eng">Venetus A</label>
+                <description
+                    xml:lang="eng">Edition of Chrestomathy as it appears in later rebinding of the Venetus A
+                    manuscript (Marciana 454 = 822)</description>
+                
+                <online docname="proclus-allen.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="section" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="paragraph" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:p[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+    </textgroup>
+
+
+</TextInventory>
