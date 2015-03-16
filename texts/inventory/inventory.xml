@@ -16,7 +16,7 @@
         <description
             xml:lang="eng">The CHS inventory of Greek literary texts</description>
     </ctsnamespace>
-   
+   <!--
     <textgroup urn="urn:cts:greekLit:parailiadic:">
         <groupname xml:lang="eng">Miscellaneous commentaries and other material related to the Iliad and found in MSS of the Iliad</groupname>
         <work urn="urn:cts:greekLit:parailiadic.hypoth" xml:lang="grc">
@@ -24,6 +24,7 @@
             
             <edition urn="urn:cts:greekLit:parailiadic.hypoth.bnf2706:">
                 <label xml:lang="eng">Edition for Bib.Nat. de France ms grec 2706</label>
+           
                 <online
                     docname="bnf2706.xml">
                     <namespaceMapping
@@ -38,9 +39,9 @@
                         </citation>
                     </citationMapping>
                 </online>
-            </edition>
+        </edition>
         </work>
-    </textgroup>
+    </textgroup>   --> 
     
     <textgroup
         urn="urn:cts:hmt:inscrs:">
