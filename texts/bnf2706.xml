@@ -6,14 +6,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Chrestomathy</title>
-                <author>Proclus</author>
+                <title>Hypotheses of the Iliad</title>
+                
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Published by the Homer Multitext project</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Digital version of OCT edition by T.W. Allen</p>
+                <p>Text edited directly from photography of the MS BNF 2706</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

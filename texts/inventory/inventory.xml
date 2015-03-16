@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TextInventory xmlns="http://chs.harvard.edu/xmlns/cts" tiversion="5.0.rc.1">
-    <ctsnamespace abbr="greekLit" ns="http://chs.harvard.edu/">
-        <description xml:lang="eng">The CHS inventory of Greek literary texts</description>
+<TextInventory
+    tiversion="5.0.rc.1"
+    xmlns="http://chs.harvard.edu/xmlns/cts">
+    <ctsnamespace
+        abbr="hmt"
+        ns="http://chs.harvard.edu/hmt/cts">
+        <description
+            xml:lang="eng">Epigraphic and papyrological texts from the Homer Multitext project not
+            included in the greekLit namespaces</description>
     </ctsnamespace>
+    <ctsnamespace
+        abbr="greekLit"
+        ns="http://chs.harvard.edu/">
+        <description
+            xml:lang="eng">The CHS inventory of Greek literary texts</description>
+    </ctsnamespace>
+   
+    <textgroup urn="urn:cts:greekLit:parailiadic:">
+        <groupname xml:lang="eng">Miscellaneous commentaries and other material related to the Iliad and found in MSS of the Iliad</groupname>
+        <work urn="urn:cts:greekLit:parailiadic.hypoth" xml:lang="grc">
+            <title xml:lang="eng">Hypotheses to the Iliad</title>
+            
+            <edition urn="urn:cts:greekLit:parailiadic.hypoth.bnf2706:">
+                <label xml:lang="eng">Edition for Bib.Nat. de France ms grec 2706</label>
+                <online
+                    docname="bnf2706.xml">
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation
+                            label="section"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:ab[@n = '?']">
+                         
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
     
+    <textgroup
+        urn="urn:cts:hmt:inscrs:">
+        <groupname
+            xml:lang="eng">Inscriptions</groupname>
+        <work
+            urn="urn:cts:hmt:inscrs.iltab1a:"
+            xml:lang="grc">
+            <title
+                xml:lang="lat">Tabula Capitolina</title>
+            <edition
+                urn="urn:cts:hmt:inscrs.iltab1a.capitoline:">
+                <label
+                    xml:lang="eng">Incsription in Capitoline Museum, Rome</label>
+                <description
+                    xml:lang="eng">Edition of the text of the Tabula Capitolina from original
+                    photography of the stone in the Capitoline Museum</description>
+                <online
+                    docname="tabulaCapt.xml">
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation
+                            label="section"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="paragraph"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:ab[@n = '?']"/>
+                        </citation>
+                        <citation
+                            label="section"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="book"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?'">
+                                <citation
+                                    label="paragraph"
+                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                    xpath="/tei:ab[@n = '?']"/>
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
     <textgroup
         urn="urn:cts:greekLit:tlg4036:">
         <groupname
@@ -15,51 +102,63 @@
             <title
                 xml:lang="eng">Chrestomathy</title>
             <edition
-                urn="urn:cts:greekLit:tlg4036.tlg023.omega1_12:">
-                <label
-                    xml:lang="eng">Escorial, Omega 1.12</label>
-                <description
-                    xml:lang="eng">Edition of the Cypria from the Chrestomathy as it appears in the Escorial Omega 1.12 MS</description>
-                
-                <online docname="proclus-allen.xml">
-                    
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="section" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="paragraph" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
-                                xpath="/tei:ab[@n = '?']"/>
-                        </citation>
-                    </citationMapping>
-                </online>
-                
-            </edition>
-            
-            
-            
-            
-            
-            <edition
                 urn="urn:cts:greekLit:tlg4036.tlg023.msA:">
                 <label
                     xml:lang="eng">Venetus A</label>
                 <description
-                    xml:lang="eng">Edition of Chrestomathy as it appears in later rebinding of the Venetus A
-                    manuscript (Marciana 454 = 822)</description>
-                
-                <online docname="proclus-allen.xml">
-                    
-                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    xml:lang="eng">Edition of Chrestomathy as it appears in later rebinding of the
+                    Venetus A manuscript (Marciana 454 = 822)</description>
+                <online
+                    docname="proclus-allen.xml">
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="section" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="paragraph" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation
+                            label="section"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="paragraph"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
                                 xpath="/tei:p[@n = '?']"/>
                         </citation>
                     </citationMapping>
                 </online>
-                
             </edition>
         </work>
     </textgroup>
-
-
+    <textgroup
+        urn="urn:cts:greekLit:tlg9022:">
+        <groupname
+            xml:lang="eng">John Tzetzes</groupname>
+        <work
+            urn="urn:cts:greekLit:tlg9022.hmt01:"
+            xml:lang="grc">
+            <title
+                xml:lang="eng">Homeric Allegories</title>
+            <edition
+                urn="urn:cts:greekLit:tlg9022.hmt01.bnf2705:">
+                <label
+                    xml:lang="eng">Edition in Bibl. Nat. de France, ms grec 2705</label>
+                <online
+                    docname="tzetzes.xml">
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation
+                            label="book"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="line"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
 </TextInventory>
