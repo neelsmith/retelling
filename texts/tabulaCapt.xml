@@ -158,13 +158,13 @@
             </div>
             <div n="Iliad">
                 <div n="iliad_1">
-                <ab>ιερον απόλλωνος ζμινθέως χρυσης</ab>
-                <ab>λοιμος</ab>
-                <ab>καλχας <w>αγαμεμν<unclear>ω</unclear>ν</w> νεστωρ
+                <ab n="1">ιερον απόλλωνος ζμινθέως χρυσης</ab>
+                <ab n="2">λοιμος</ab>
+                <ab n="3">καλχας <w>αγαμεμν<unclear>ω</unclear>ν</w> νεστωρ
                     αχιλλευς αθηνα </ab>
-                <ab>οδυσσευς <w><unclear>τη</unclear>ν</w> <w><unclear>εκ</unclear>ατoμβην</w>
+                <ab n="4">οδυσσευς <w><unclear>τη</unclear>ν</w> <w><unclear>εκ</unclear>ατoμβην</w>
                     τω θεω αγων απολλωνι χρυσηις</ab>
-                <ab>θετις ζ</ab>
+                <ab n="4">θετις ζ</ab>
                 </div>
                 <div n="iliad_13">
                     <ab></ab>
@@ -205,19 +205,19 @@
                 
             </div>
             <div n="aethiopis_1">
-                <ab>εσιλεια
+                <ab n="1">εσιλεια
                     αχιλλευς </ab>
-                <ab><w>αχι<unclear>λλε</unclear>υς</w> 
+                <ab n="2"><w>αχι<unclear>λλε</unclear>υς</w> 
                     θερστιης  </ab>
-               <ab>αχιλλευς μεμνων <w>αν<unclear></unclear>λοχος</w></ab>
-                <ab>αχιλλευς 
+               <ab n="3">αχιλλευς μεμνων <w>αν<unclear></unclear>λοχος</w></ab>
+                <ab n="4">αχιλλευς 
                     αιας</ab>
-                <ab><w>οδ<unclear>υ</unclear>σσευς</w> 
+                <ab n="5"><w>οδ<unclear>υ</unclear>σσευς</w> 
                     αχιλλεω<unclear>ς σωμ</unclear>α  
                 </ab>
-                <ab><unclear></unclear>ουσα αχι<unclear>λλ</unclear>εο 
+                <ab n="6"><unclear></unclear>ουσα αχι<unclear>λλ</unclear>εο 
                     θε</ab>
-                <ab>αιας 
+                <ab n="7">αιας 
                     μ<unclear></unclear>ης</ab>
             </div>
             <div n="littleIliad_1">
@@ -226,22 +226,22 @@
                     κασσανδρα σκαια πυλη</ab>
             </div>
             <div n="iliupersis_1">
-                <ab>α<unclear>ια</unclear> δουρηος ιππος</ab>
-                <ab><w>ιερο<damage></damage></w> <w>αφροδιτη<unclear>ς</unclear></w></ab>
-                <ab>αινηας</ab>
-                <ab><abbr>δη</abbr> <w>α<unclear>ιθ</unclear>ρα</w></ab>
-                <ab><w>α<unclear>γχ</unclear>εισης</w> ασκανιος αινηας ερμης</ab>
-                <ab>εκτορος ταφος</ab>
-                <ab>ταλθυβιος και τρωαδες</ab>
-                <ab>κασσανδρα ανδρομαχη <w>ελε<unclear>νος</unclear></w></ab>
-                <ab>εκαβη πολυξενη ανδρομαχη ελενος <w>οδυσσε<unclear>υ</unclear>ς</w></ab>
-                <ab>ναυσταθμον αχαιων</ab>
-                <ab>αχιλλεως σημα νεοπτολεμος <w>πο<damage>λυξε</damage>νη</w> οδυσσευς καλχας</ab>
-                <ab>αινηας <w>συ<unclear>ν</unclear></w> τοις <w><unclear>ι</unclear>δ<unclear>ι</unclear>ο<unclear>ι</unclear>ς</w> <w>απα<unclear>ιρων</unclear></w> εις την <w>εσπερ<unclear>ιαν</unclear></w></ab>
-                <ab>αποπλους αινηου</ab>
-                <ab><w>αγχ<unclear>ι</unclear>σης</w> και τα <w><unclear>ι</unclear>ερα</w></ab>
-                <ab><w>μ<unclear>ι</unclear>σηνος</w></ab>
-                <ab><w><unclear>σ</unclear>ειγαιο<unclear>ν</unclear></w></ab>
+                <ab n="1">α<unclear>ια</unclear> δουρηος ιππος</ab>
+                <ab n="2"><w>ιερο<damage></damage></w> <w>αφροδιτη<unclear>ς</unclear></w></ab>
+                <ab n="3">αινηας</ab>
+                <ab n="4"><abbr>δη</abbr> <w>α<unclear>ιθ</unclear>ρα</w></ab>
+                <ab n="5"><w>α<unclear>γχ</unclear>εισης</w> ασκανιος αινηας ερμης</ab>
+                <ab n="6">εκτορος ταφος</ab>
+                <ab n="7">ταλθυβιος και τρωαδες</ab>
+                <ab n="8">κασσανδρα ανδρομαχη <w>ελε<unclear>νος</unclear></w></ab>
+                <ab n="9">εκαβη πολυξενη ανδρομαχη ελενος <w>οδυσσε<unclear>υ</unclear>ς</w></ab>
+                <ab n="10">ναυσταθμον αχαιων</ab>
+                <ab n="11">αχιλλεως σημα νεοπτολεμος <w>πο<damage>λυξε</damage>νη</w> οδυσσευς καλχας</ab>
+                <ab n="12">αινηας <w>συ<unclear>ν</unclear></w> τοις <w><unclear>ι</unclear>δ<unclear>ι</unclear>ο<unclear>ι</unclear>ς</w> <w>απα<unclear>ιρων</unclear></w> εις την <w>εσπερ<unclear>ιαν</unclear></w></ab>
+                <ab n="13">αποπλους αινηου</ab>
+                <ab n="14"><w>αγχ<unclear>ι</unclear>σης</w> και τα <w><unclear>ι</unclear>ερα</w></ab>
+                <ab n="15"><w>μ<unclear>ι</unclear>σηνος</w></ab>
+                <ab n="16"><w><unclear>σ</unclear>ειγαιο<unclear>ν</unclear></w></ab>
             </div>
         </body>
     </text>
