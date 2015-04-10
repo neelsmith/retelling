@@ -148,56 +148,56 @@
             <p n="26">καὶ κατάλογος τῶν τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> συμμαχησάντων. </p>
          </div>
          <div n="Aithiopis">
-            <head>Τοῦ αὐτοῦ περὶ Αἰθιοπίδος</head>
-            <p n="1"> Ἐπιβάλλει δὲ τοῖς προειρημένοις ἐν τῇ πρὸ ταύτης βίβλῳ Ἰλιὰς Ὁμήρου· μεθ' ἥν
-               ἐστιν Αἰθιοπίδος βιβλία <num value="5">ε</num> Ἀρκτίνου Μιλησίου, περιέχοντα
+            <head>Τοῦ αὐτοῦ περὶ <title>Αἰθιοπίδος</title></head>
+            <p n="1"> Ἐπιβάλλει δὲ τοῖς προειρημένοις ἐν τῇ πρὸ ταύτης βίβλῳ <title type="urn" n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιὰς</title> <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName>· μεθ' ἥν
+               ἐστιν <title>Αἰθιοπίδος</title> βιβλία <num value="5">ε</num> <persName n="urn:cite:hmt:pers.pers809">Ἀρκτίνου</persName> Μιλησίου, περιέχοντα
                τάδε.</p>
-            <p n="2">Ἀμαζὼν Πενθεσίλεια παραγίνεται Τρωσὶ συμμαχήσουσα, Ἄρεως μὲν θυγάτηρ, Θρᾷσσα δὲ
-               τὸ γένος· καὶ κτείνει αὐτὴν ἀριστεύουσαν Ἀχιλλεύς, οἱ δὲ Τρῶες αὐτὴν θάπτουσι.</p>
-            <p n="3">καὶ Ἀχιλλεὺς Θερσίτην ἀναιρεῖ, λοιδορηθεὶς πρὸς αὐτοῦ καὶ ὀνειδισθεὶς τὸν ἐπὶ
-               τῇ Πενθεσιλείᾳ λεγόμενον ἔρωτα· καὶ ἐκ τούτου στάσις γίνεται τοῖς Ἀχαιοῖς περὶ τοῦ
-               Θερσίτου φόνου.</p>
-            <p n="4">μετὰ δὲ ταῦτα Ἀχιλλεὺς εἰς Λέσβον πλεῖ, καὶ θύσας Ἀπόλλωνι καὶ Ἀρτέμιδι καὶ
-               Λητοῖ καθαίρεται τοῦ φόνου ὑπ' Ὀδυσσέως.</p>
-            <p n="5">Μέμνων δὲ ὁ Ἠοῦς υἱὸς ἔχων ἡφαιστότευκτον πανοπλίαν παραγίνεται τοῖς Τρωσὶ
-               βοηθήσων· καὶ Θέτις τῷ παιδὶ τὰ κατὰ τὸν Μέμνονα προλέγει.</p>
-            <p n="6">καὶ συμβολῆς γενομένης Ἀντίλοχος ὑπὸ Μέμνονος ἀναιρεῖται, ἔπειτα Ἀχιλλεὺς
-               Μέμνονα κτείνει· καὶ τούτῳ μὲν Ἠὼς παρὰ Διὸς αἰτησαμένη ἀθανασίαν δίδωσι.</p>
-            <p n="7">τρεψάμενος δ' Ἀχιλλεὺς τοὺς Τρῶας καὶ εἰς τὴν πόλιν συνεισπεσὼν ὑπὸ Πάριδος
-               ἀναιρεῖται καὶ Ἀπόλλωνος· καὶ περὶ τοῦ πτώματος γενομένης ἰσχυρᾶς μάχης Αἴας
-               ἀνελόμενος ἐπὶ τὰς ναῦς κομίζει, Ὀδυσσέως ἀπομαχομένου τοῖς Τρωσίν.</p>
-            <p n="8">ἔπειτα Ἀντίλοχόν τε θάπτουσι καὶ τὸν νεκρὸν τοῦ Ἀχιλλέως προτίθενται·</p>
-            <p n="9">καὶ Θέτις ἀφικομένη σὺν Μούσαις καὶ ταῖς ἀδελφαῖς θρηνεῖ τὸν παῖδα· καὶ μετὰ
-               ταῦτα ἐκ τῆς πυρᾶς ἡ Θέτις ἀναρπάσασα τὸν παῖδα εἰς τὴν Λευκὴν νῆσον διακομίζει.</p>
-            <p n="10">οἱ δὲ Ἀχαιοὶ τὸν τάφον χώσαντες ἀγῶνα τιθέασι, καὶ περὶ τῶν Ἀχιλλέως ὅπλων
-               Ὀδυσσεῖ καὶ Αἴαντι στάσις ἐμπίπτει.</p>
+            <p n="2">Ἀμαζὼν <persName n="urn:cite:hmt:pers.pers331">Πενθεσίλεια</persName> παραγίνεται <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> συμμαχήσουσα, <persName n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> μὲν θυγάτηρ, <placeName n="urn:cite:hmt:place.place70">Θρᾷσσα</placeName> δὲ
+               τὸ γένος· καὶ κτείνει αὐτὴν ἀριστεύουσαν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>, οἱ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> αὐτὴν θάπτουσι.</p>
+            <p n="3">καὶ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> <persName n="urn:cite:hmt:pers.pers310">Θερσίτην</persName> ἀναιρεῖ, λοιδορηθεὶς πρὸς αὐτοῦ καὶ ὀνειδισθεὶς τὸν ἐπὶ
+               τῇ <persName n="urn:cite:hmt:pers.pers331">Πενθεσιλείᾳ</persName> λεγόμενον ἔρωτα· καὶ ἐκ τούτου στάσις γίνεται τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοῖς</rs> περὶ τοῦ
+               <persName n="urn:cite:hmt:pers.pers310">Θερσίτου</persName> φόνου.</p>
+            <p n="4">μετὰ δὲ ταῦτα <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> εἰς <placeName n="urn:cite:hmt:place.place13">Λέσβον</placeName> πλεῖ, καὶ θύσας <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνι</persName> καὶ <placeName n="urn:cite:hmt:pers.pers39">Ἀρτέμιδι</placeName> καὶ
+               <persName n="urn:cite:hmt:pers.pers35">Λητοῖ</persName> καθαίρεται τοῦ φόνου ὑπ' <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName>.</p>
+            <p n="5"><persName n="urn:cite:hmt:pers.pers586">Μέμνων</persName> δὲ ὁ <persName n="urn:cite:hmt:pers.pers286">Ἠοῦς</persName> υἱὸς ἔχων ἡφαιστότευκτον πανοπλίαν παραγίνεται τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs>
+               βοηθήσων· καὶ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> τῷ παιδὶ τὰ κατὰ τὸν <persName n="urn:cite:hmt:pers.pers586">Μέμνονα</persName> προλέγει.</p>
+            <p n="6">καὶ συμβολῆς γενομένης <persName n="urn:cite:hmt:pers.pers712">Ἀντίλοχος</persName> ὑπὸ <persName n="urn:cite:hmt:pers.pers586">Μέμνονος</persName> ἀναιρεῖται, ἔπειτα <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName>
+               <persName n="urn:cite:hmt:pers.pers586">Μέμνονα</persName> κτείνει· καὶ τούτῳ μὲν <persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> παρὰ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> αἰτησαμένη ἀθανασίαν δίδωσι.</p>
+            <p n="7">τρεψάμενος δ' <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs> καὶ εἰς τὴν πόλιν συνεισπεσὼν ὑπὸ <persName n="urn:cite:hmt:pers.pers129">Πάριδος</persName>
+               ἀναιρεῖται καὶ <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνος</persName>· καὶ περὶ τοῦ πτώματος γενομένης ἰσχυρᾶς μάχης <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName>
+               ἀνελόμενος ἐπὶ τὰς ναῦς κομίζει, <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> ἀπομαχομένου τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσίν</rs>.</p>
+            <p n="8">ἔπειτα <persName n="urn:cite:hmt:pers.pers712">Ἀντίλοχόν</persName> τε θάπτουσι καὶ τὸν νεκρὸν τοῦ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> προτίθενται·</p>
+            <p n="9">καὶ <rs n="urn:cite:hmt:pers.pers19">Θέτις</rs> ἀφικομένη σὺν Μούσαις καὶ ταῖς ἀδελφαῖς θρηνεῖ τὸν παῖδα· καὶ μετὰ
+               ταῦτα ἐκ τῆς πυρᾶς ἡ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> ἀναρπάσασα τὸν παῖδα εἰς τὴν <placeName n="urn:cite:hmt:place.place419">Λευκὴν</placeName> νῆσον διακομίζει.</p>
+            <p n="10">οἱ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs> τὸν τάφον χώσαντες ἀγῶνα τιθέασι, καὶ περὶ τῶν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> ὅπλων
+               <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεῖ</persName> καὶ <persName n="urn:cite:hmt:pers.pers127">Αἴαντι</persName> στάσις ἐμπίπτει.</p>
          </div>
          <div n="Iliasparva">
-            <head>Τοῦ αὐτοῦ περὶ Ἰλιάδος μικρᾶς</head>
-            <p n="1"> Ἑξῆς δ' ἐστὶν Ἰλιάδος μικρᾶς βιβλία τέσσαρα Λέσχεω Μυτιληναίου περιέχοντα
+            <head>Τοῦ αὐτοῦ περὶ <title>Ἰλιάδος μικρᾶς</title></head>
+            <p n="1"> Ἑξῆς δ' ἐστὶν <title>Ἰλιάδος μικρᾶς</title> βιβλία τέσσαρα <persName n="urn:cite:hmt:pers.pers810">Λέσχεω</persName> Μυτιληναίου περιέχοντα
                τάδε.</p>
-            <p n="2">Ἡ τῶν ὅπλων κρίσις γίνεται καὶ Ὀδυσσεὺς κατὰ βούλησιν Ἀθηνᾶς λαμβάνει, Αἴας δ'
-               ἐμμανὴς γενόμενος τήν τε λείαν τῶν Ἀχαιῶν λυμαίνεται καὶ ἑαυτὸν ἀναιρεῖ.</p>
-            <p n="3">μετὰ ταῦτα Ὀδυσσεὺς λοχήσας Ἕλενον λαμβάνει, καὶ χρήσαντος περὶ τῆς ἁλώσεως
-               τούτου Διομήδης ἐκ Λήμνου Φιλοκτήτην ἀνάγει. ἰαθεὶς δὲ οὗτος ὑπὸ Μαχάονος καὶ
-               μονομαχήσας Ἀλεξάνδρῳ κτείνει· καὶ τὸν νεκρὸν ὑπὸ Μενελάου καταικισθέντα ἀνελόμενοι
-               θάπτουσιν οἱ Τρῶες.</p>
-            <p n="4">μετὰ δὲ ταῦτα Δηίφοβος Ἑλένην γαμεῖ.</p>
-            <p n="5">καὶ Νεοπτόλεμον Ὀδυσσεὺς ἐκ Σκύρου ἀγαγὼν τὰ ὅπλα δίδωσι τὰ τοῦ πατρός· καὶ
-               Ἀχιλλεὺς αὐτῷ φαντάζεται.</p>
-            <p n="6">Εὐρύπυλος δὲ ὁ Τηλέφου ἐπίκουρος τοῖς Τρωσὶ παραγίνεται, καὶ ἀριστεύοντα αὐτὸν
-               ἀποκτείνει Νεοπτόλεμος.</p>
-            <p n="7">καὶ οἱ Τρῶες πολιορκοῦνται· </p>
-            <p n="8">καὶ Ἐπειὸς κατ' Ἀθηνᾶς προαίρεσιν τὸν δούρειον ἵππον κατασκευάζει·</p>
-            <p n="9"> Ὀδυσσεύς τε αἰκισάμενος ἑαυτὸν κατάσκοπος εἰς Ἴλιον παραγίνεται, καὶ
-               ἀναγνωρισθεὶς ὑφ' Ἑλένης περὶ τῆς ἁλώσεως τῆς πόλεως συντίθεται, κτείνας τέ τινας τῶν
-               Τρώων ἐπὶ τὰς ναῦς ἀφικνεῖται. </p>
-            <p n="10">καὶ μετὰ ταῦτα σὺν Διομήδει τὸ παλλάδιον ἐκκομίζει ἐκ τῆς Ἰλίου. ἔπειτα εἰς
+            <p n="2">Ἡ τῶν ὅπλων κρίσις γίνεται καὶ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> κατὰ βούλησιν <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶς</persName> λαμβάνει, <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δ'
+               ἐμμανὴς γενόμενος τήν τε λείαν τῶν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> λυμαίνεται καὶ ἑαυτὸν ἀναιρεῖ.</p>
+            <p n="3">μετὰ ταῦτα <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> λοχήσας <persName n="urn:cite:hmt:pers.pers507">Ἕλενον</persName> λαμβάνει, καὶ χρήσαντος περὶ τῆς ἁλώσεως
+               τούτου <persName n="urn:cite:hmt:pers.pers215">Διομήδης</persName> ἐκ <placeName n="urn:cite:hmt:place.place69">Λήμνου</placeName> <persName n="urn:cite:hmt:pers.pers291">Φιλοκτήτην</persName> ἀνάγει. ἰαθεὶς δὲ οὗτος ὑπὸ <persName n="urn:cite:hmt:pers.pers89">Μαχάονος</persName> καὶ
+               μονομαχήσας <persName n="urn:cite:hmt:pers.pers129">Ἀλεξάνδρῳ</persName> κτείνει· καὶ τὸν νεκρὸν ὑπὸ <persName n="urn:cite:hmt:pers.pers118">Μενελάου</persName> καταικισθέντα ἀνελόμενοι
+               θάπτουσιν οἱ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs>.</p>
+            <p n="4">μετὰ δὲ ταῦτα <persName n="urn:cite:hmt:pers.pers508">Δηίφοβος</persName> <persName n="urn:cite:hmt:pers.pers94">Ἑλένην</persName> γαμεῖ.</p>
+            <p n="5">καὶ <persName n="urn:cite:hmt:pers.pers796">Νεοπτόλεμον</persName> <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> ἐκ <placeName n="urn:cite:hmt:place.place61">Σκύρου</placeName> ἀγαγὼν τὰ ὅπλα δίδωσι τὰ τοῦ πατρός· καὶ
+               <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> αὐτῷ φαντάζεται.</p>
+            <p n="6"><persName n="urn:cite:hmt:pers.pers249">Εὐρύπυλος</persName> δὲ ὁ <persName n="urn:cite:hmt:pers.pers70">Τηλέφου</persName> ἐπίκουρος τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> παραγίνεται, καὶ ἀριστεύοντα αὐτὸν
+               ἀποκτείνει <persName n="urn:cite:hmt:pers.pers796">Νεοπτόλεμος</persName>.</p>
+            <p n="7">καὶ οἱ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> πολιορκοῦνται· </p>
+            <p n="8">καὶ <persName n="urn:cite:hmt:pers.pers289">Ἐπειὸς</persName> κατ' <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶς</persName> προαίρεσιν τὸν δούρειον ἵππον κατασκευάζει·</p>
+            <p n="9"> <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεύς</persName> τε αἰκισάμενος ἑαυτὸν κατάσκοπος εἰς <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName> παραγίνεται, καὶ
+               ἀναγνωρισθεὶς ὑφ' <persName n="urn:cite:hmt:pers.pers507">Ἑλένης</persName> περὶ τῆς ἁλώσεως τῆς πόλεως συντίθεται, κτείνας τέ τινας τῶν
+               <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἐπὶ τὰς ναῦς ἀφικνεῖται. </p>
+            <p n="10">καὶ μετὰ ταῦτα σὺν <persName n="urn:cite:hmt:pers.pers215">Διομήδει</persName> τὸ παλλάδιον ἐκκομίζει ἐκ τῆς <placeName n="urn:cite:hmt:place.place6">Ἰλίου</placeName>. ἔπειτα εἰς
                τὸν δούρειον ἵππον τοὺς ἀρίστους ἐμβιβάσαντες τάς τε σκηνὰς καταφλέξαντες οἱ λοιποὶ
-               τῶν Ἑλλήνων εἰς Τένεδον ἀνάγονται·</p>
-            <p n="11">οἱ δὲ Τρῶες τῶν κακῶν ὑπολαβόντες ἀπηλλάχθαι τόν τε δούρειον ἵππον εἰς τὴν
+               τῶν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> εἰς <persName n="urn:cite:hmt:place.place14">Τένεδον</persName> ἀνάγονται·</p>
+            <p n="11">οἱ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> τῶν κακῶν ὑπολαβόντες ἀπηλλάχθαι τόν τε δούρειον ἵππον εἰς τὴν
                πόλιν εἰσδέχονται, διελόντες μέρος τι τοῦ τείχους, καὶ εὐωχοῦνται ὡς νενικηκότες τοὺς
-               Ἕλληνας. </p>
+               <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>. </p>
          </div>
          <div n="Iliupersis">
             <head>Τοῦ αὐτοῦ περὶ Ἰλίου πέρσιδος</head>
