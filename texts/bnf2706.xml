@@ -20,71 +20,75 @@
     <text>
         <body>
             <div>
-                <head>‡ αἱ ὑποθέσεις τῶν <num value="24">κδ</num> στοιχίωv? βυβλίων τῆς Ὁμήρου
-                    Ἰλιαδος σὺν σχολίοις τισὶ· καὶ κανονίσμασι διαφόρος καὶ ἀναγκαίοις: ἐξ
-                    Ἀρϊστάρχου τοῦ ἐξαγητοῦ ⁑ </head>
+                <head>‡ αἱ ὑποθέσεις τῶν <num value="24">κδ</num> στοιχίωv? βυβλίων τῆς <persName
+                        n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> <title type="urn" ref="urn:cts:greekLit:tlg0012.tlg001">Ἰλιαδος</title> σὺν σχολίοις τισὶ·
+                    καὶ κανονίσμασι διαφόρος καὶ ἀναγκαίοις: ἐξ <persName
+                        n="urn:cite:hmt:pers.pers16
+                        ">Ἀρϊστάρχου</persName>
+                    τοῦ ἐξαγητοῦ ⁑ </head>
 
-                <ab n="1">θεοὶ τῆς Θέτιδος καὶ Πηλέως γάμους, ἦγον ἐν Πηλείω τῆς Θεσσαλίας
-                            <w>ὄ<del>ρ</del>ρη</w>· μόνη δ’ ἄκλητος ἦν ἡ Ἔρις· ὡς μὴ ταράττοι
-                    παροῦσα· μηχανᾶται δέ τι τοιοῦτον· λαβοῦσα γὰρ χρυσὸν μῆλον ἐπιγράφει τῆ
-                    καλλίστη τὸ μῆλον· καὶ φέρουσα ἠς μέσορ ῥιπτει τοῦ συμποσίου· φιλονεικοῦσι δὲ
-                    ὑπὲρ αὐτοῦ, Ἥρα καὶ Ἀθηνᾶ καὶ Ἀφροδίτη· καὶ δέονται τοῦ Διὸς ὑποστῆναι τὴν
-                    κρίσιν· ὅ δ’ ἀρνησάμενος, Ἑρμῆ προς τάττει, πρὸς Ἀλέξαμδρον αὐτὰς ἄγειν· ὁδ’
-                    αὐτὸς καὶ Πάρις ὠνομάζετο· Πριάμου δὲ παῖς ὢν του πρώην βασιλέως, ἐπὶ τῆς Ἴδης
-                    ἐβουκόλει· ἔνθα ἑκάστη δῶρον τῶ νεανίσκω προ ὔτεινεν· Ἥρα μὲν τὴν μεγίστην
-                    βασιλεία Ἀθηνᾶ δὲ τὸ ἐν πολέμοις κράτος· Ἀφροδίτη δὲ, τὴν καλλίστην
+                <ab n="1">θεοὶ τῆς <persName n="urn:cite:hmt:pers.pers19">Θέτιδος</persName> καὶ
+                        <persName n="urn:cite:hmt:pers.pers1184">Πηλέως</persName> γάμους, ἦγον ἐν
+                    <placeName n="urn:cite:hmt:place.place57">Πηλείω</placeName> τῆς <placeName n="urn:cite:hmt:place.place2">Θεσσαλίας</placeName> <w>ὄ<del>ρ</del>ρη</w>· μόνη δ’ ἄκλητος ἦν ἡ <persName n="urn:cite:hmt:pers.pers156">Ἔρις</persName>· ὡς μὴ
+                    ταράττοι παροῦσα· μηχανᾶται δέ τι τοιοῦτον· λαβοῦσα γὰρ χρυσὸν μῆλον ἐπιγράφει
+                    τῆ καλλίστη τὸ μῆλον· καὶ φέρουσα ἠς μέσορ ῥιπτει τοῦ συμποσίου· φιλονεικοῦσι δὲ
+                    ὑπὲρ αὐτοῦ, <persName n="urn:cite:hmt:pers.pers116">Ἥρα</persName> καὶ <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> καὶ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName>· καὶ δέονται τοῦ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ὑποστῆναι τὴν
+                    κρίσιν· ὅ δ’ ἀρνησάμενος, <persName n="urn:cite:hmt:pers.pers104">Ἑρμῆ</persName> προς τάττει, πρὸς <persName n="urn:cite:hmt:pers.pers129">Ἀλέξαμδρον</persName> αὐτὰς ἄγειν· ὁδ’
+                    αὐτὸς καὶ <persName n="urn:cite:hmt:pers.pers129">Πάρις</persName> ὠνομάζετο· <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName> δὲ παῖς ὢν του πρώην βασιλέως, ἐπὶ τῆς <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>
+                    ἐβουκόλει· ἔνθα ἑκάστη δῶρον τῶ νεανίσκω προ ὔτεινεν· <persName n="urn:cite:hmt:pers.pers116">Ἥρα</persName> μὲν τὴν μεγίστην
+                    βασιλεία <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> δὲ τὸ ἐν πολέμοις κράτος· <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName> δὲ, τὴν καλλίστην
                     γυναῖκα·</ab>
                 <ab n="2">ἧ καὶ συνΘέμενος τὸ καλλιστεῖον νέμει·</ab>
                 <ab n="3">καὶ συμπραττούσης τῆς θεοῦ, πλεύσας εἰς <choice>
-                        <reg>λακειδαίμονα</reg>
-                        <orig>λακαιδαίμονα</orig>
-                    </choice>, Ἑλένην ἁρπάζει τὴν Μενελάου γυναῖκα·</ab>
-                <ab n="4">ὅθεν δὴ τὸν δεκαστῆ πόλεμον Ἕλλησί τε καὶ Τρωσὶ συνέβη γενέσθαι· ἃ δέ τα
-                    ἰν ἐκ τῆς Ὁμήρου <choice>
+                    <reg><placeName n="urn:cite:hmt:place.place27">Λακειδαίμονα</placeName></reg>
+                    <orig><placeName n="urn:cite:hmt:place.place27">Λακαιδαίμονα</placeName></orig>
+                </choice>, <persName n="urn:cite:hmt:pers.pers94">Ἑλένην</persName> ἁρπάζει τὴν <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> γυναῖκα·</ab>
+                <ab n="4">ὅθεν δὴ τὸν δεκαστῆ πόλεμον <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλλησί</rs> τε καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> συνέβη γενέσθαι· ἃ δέ τα
+                    ἰν ἐκ τῆς <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> <choice>
                         <abbr>ποιηα</abbr>
                         <expan>ποιήματα</expan>
                     </choice> ἠς τὴν ἀρχὴν πρὸς διήγησιν λαβεῖν, νῦν ῥητέον· τὰς μὲν γὰρ ναῦς,
-                    Ἁρμονίδης κατεσκεύασε, μεθ’ ὣν ἔπλευσε Ἀλέξανδρος ἑταίρους ἀθροίσας· ξενισθεὶς
-                    δὲ παρὰ Μενελάου, καὶ ἀποδημίαν αὐτοῦ φυλαξάς, δόλω καὶ ἀπάτη φαίνεται τὴν
-                    Ἑλένην ἁρπάσας·</ab>
-                <ab n="5">καὶ μετὰ πολλῶ χρηματα ἐνθέμενος, οὐκ εὐθὶς ἐπὶ τὸ Ἴλιον διαβαίνει·</ab>
-                <ab n="6">ἀλλὰ πλησιάσας τὶνι τῶν νήσων, ἐπ’ Αἰγύπτω δὲ καὶ Φοινίκη, ἐπ’ Αἰγύπτω δὲ
-                    καὶ Φοινίκη πλανηθηναι πρότερον· ὡς δὲ ἡ τῆς ἁρπαγης φήμη διεδόθη <choice>
+                    <persName n="urn:cite:hmt:pers.pers239">Ἁρμονίδης</persName> κατεσκεύασε, μεθ’ ὣν ἔπλευσε <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> ἑταίρους ἀθροίσας· ξενισθεὶς
+                    δὲ παρὰ <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>, καὶ ἀποδημίαν αὐτοῦ φυλαξάς, δόλω καὶ ἀπάτη φαίνεται τὴν
+                    <persName n="urn:cite:hmt:pers.pers94">Ἑλένην</persName> ἁρπάσας·</ab>
+                <ab n="5">καὶ μετὰ πολλῶ χρηματα ἐνθέμενος, οὐκ εὐθὶς ἐπὶ τὸ <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName> διαβαίνει·</ab>
+                <ab n="6">ἀλλὰ πλησιάσας τὶνι τῶν νήσων, ἐπ’ <placeName n="urn:cite:hmt:place.place25">Αἰγύπτω</placeName> δὲ καὶ <placeName n="urn:cite:hmt:place.place127">Φοινίκη</placeName>, ἐπ’ <placeName n="urn:cite:hmt:place.place25">Αἰγύπτω</placeName> δὲ
+                    καὶ <placeName n="urn:cite:hmt:place.place127">Φοινίκη</placeName> πλανηθηναι πρότερον· ὡς δὲ ἡ τῆς ἁρπαγης φήμη διεδόθη <choice>
                         <abbr>κτ</abbr>
                         <expan>κατὰ</expan>
-                    </choice> τὴν Ἑλλαδα καὶ στρατεύειν ἔγνωστο συνδοκοῦν τοῦτο καὶ τῶ Πυθίω,
-                    <sic>προαναλώθημενον</sic> εἰς τὴν παρασκευὴν ἔτη δέκα·</ab>
-                <ab n="7">βασιλεὺς δὲ τῶν Ἑλλήνων Ἀγαμένων ἄξας τὴν στρατιὰν εἰς Αὐλίδα τῆς
-                    Βοιωτίας· ὅθεν καὶ ἄρας τὸν στόλον, εἰς τὴν Ἀσίαν ἔπλει, καὶ Κάλχατος
-                    ἐξηγουμένου τοῦ τοῦ μάντεως· ἡνίκα συνέβη καὶ Φιλοκτήτην ἐν Λήμνω <choice>
+                    </choice> τὴν <placeName n="urn:cite:hmt:place.place3">Ἑλλαδα</placeName> καὶ στρατεύειν ἔγνωστο συνδοκοῦν τοῦτο καὶ τῶ Πυθίω,
+                        <sic>προαναλώθημενον</sic> εἰς τὴν παρασκευὴν ἔτη δέκα·</ab>
+                <ab n="7">βασιλεὺς δὲ τῶν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> <persName n="urn:cite:hmt:pers.pers22">Ἀγαμένων</persName> ἄξας τὴν στρατιὰν εἰς <placeName n="urn:cite:hmt:place.place29">Αὐλίδα</placeName> τῆς
+                    <placeName n="urn:cite:hmt:place.place30">Βοιωτίας</placeName>· ὅθεν καὶ ἄρας τὸν στόλον, εἰς τὴν <placeName n="urn:cite:hmt:place.place226">Ἀσίαν</placeName> ἔπλει, καὶ <persName n="urn:cite:hmt:pers.pers74">Κάλχατος</persName>
+                    ἐξηγουμένου τοῦ τοῦ μάντεως· ἡνίκα συνέβη καὶ <persName n="urn:cite:hmt:pers.pers291">Φιλοκτήτην</persName> ἐν <placeName n="urn:cite:hmt:place.place69">Λήμνω</placeName> <choice>
                         <abbr>κτλειφθῆνα</abbr>
                         <expan>καταλειφθῆναι</expan>
-                    </choice>, δειχθέντα ὑπὸ ὔδρας· καὶ Πρωτεσίλαον πρῶτον ἀποθορώντας τῆς νεὼς,
+                    </choice>, δειχθέντα ὑπὸ ὔδρας· καὶ <persName n="urn:cite:hmt:pers.pers288">Πρωτεσίλαον</persName> πρῶτον ἀποθορώντας τῆς νεὼς,
                     ἀναιρεθηναι·</ab>
-                <ab n="8">νικῶσι δὲ Ἕλληνες καὶ διώκουσιν αὐτοὺς εἰς τὴν πόλιν· καὶ στρατο <choice>
+                <ab n="8">νικῶσι δὲ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνες</rs> καὶ διώκουσιν αὐτοὺς εἰς τὴν πόλιν· καὶ στρατο <choice>
                         <abbr>παιδεύονται</abbr>
                         <expan>πειδεύονται</expan>
-                    </choice> πρὸς τῆ θαλάσση· πέμουσι δὲ καὶ πρέσβεις εἰς τὴν πόλιν, Ὀδυσσεα καὶ
-                    Μενέλαον· δικαιολογουμένους τὸ πλῆθες· οἳ καὶ κατή<damage/>χθησαν εἰς τὴν
-                    Ἀντήνορος οἰκίαν·</ab>
-                <ab n="9">ἔπειτα ἀνελθόντες εἰς τὴν τῶν Τρώων ἐκλλησίαν γνώμην εἰπόντος Αὐτιμάχου
+                </choice> πρὸς τῆ θαλάσση· πέμουσι δὲ καὶ πρέσβεις εἰς τὴν πόλιν, <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεα</persName> καὶ
+                    <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>· δικαιολογουμένους τὸ πλῆθες· οἳ καὶ κατή<damage/>χθησαν εἰς τὴν
+                    <persName n="urn:cite:hmt:pers.pers509">Ἀντήνορος</persName> οἰκίαν·</ab>
+                <ab n="9">ἔπειτα ἀνελθόντες εἰς τὴν τῶν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἐκλλησίαν γνώμην εἰπόντος <persName n="urn:cite:hmt:pers.pers492">Αὐτιμάχου</persName>
                     κτείνειν αὐτοὺς, σκψάμενοι δὲ καὶ τὰς πλείους τῶν νηῶν ἑλκύσανας,
                     διχῆνέμονται·</ab>
-                <ab n="10">καὶ οἱ μὲν αὐτοῦ μένοντες, αὐ τεῖχον, ὁ πότεου? Τρῶες ἐξέλθοιεν τῆς
+                <ab n="10">καὶ οἱ μὲν αὐτοῦ μένοντες, αὐ τεῖχον, ὁ πότεου? <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ἐξέλθοιεν τῆς
                     πόλεως·</ab>
-                <ab n="11">οἵ δ’ ἐπὶ λείαν ἐστελλοντο· Ἀχιλλευς δὲ ἡγουμένου, καὶ τὰς πλγσίον πόλεις
+                <ab n="11">οἵ δ’ ἐπὶ λείαν ἐστελλοντο· <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλευς</persName> δὲ ἡγουμένου, καὶ τὰς πλγσίον πόλεις
                     ἥρουν·</ab>
-                <ab n="12">συνέβη δὲ καὶ Αἰνείαν πρὸς Ἀχιλλέα <choice>
+                <ab n="12">συνέβη δὲ καὶ <persName n="urn:cite:hmt:pers.pers142">Αἰνείαν</persName> πρὸς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName> <choice>
                         <abbr>κατ</abbr>
                         <expan>κατα</expan>
                     </choice> στάσιν ἐγεῖραι· </ab>
-                <ab n="13">καὶ μόλις τὸν κίνδυνον ἐν φυγεῖν τὸν Αἰνείαν· γίνετια δὲ λψις καὶ Τρωίλου
-                    ἀναίρεσις· πρὸς δὲ τούτοις, Βρισηίδος τε καὶ Χρυσήιδος ἁρπαγὴ· καὶ οὔτως ἐν
-                    αὔτον ἔτπς διηνύθη, μέχρι τῆς Ἀχιλλεώς μήνιδος·</ab>
+                <ab n="13">καὶ μόλις τὸν κίνδυνον ἐν φυγεῖν τὸν <persName n="urn:cite:hmt:pers.pers142">Αἰνείαν</persName>· γίνετια δὲ λψις καὶ <persName n="urn:cite:hmt:pers.pers936">Τρωίλου</persName>
+                    ἀναίρεσις· πρὸς δὲ τούτοις, <persName n="urn:cite:hmt:pers.pers113">Βρισηίδος</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers108">Χρυσήιδος</persName> ἁρπαγὴ· καὶ οὔτως ἐν
+                    αὔτον ἔτπς διηνύθη, μέχρι τῆς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεώς</persName> μήνιδος·</ab>
                 <ab n="14">ἧς γενομένης, ἠξιώθημεον ἡ δύναμις, ἑκατέρων τῶν στρατοπέδων·</ab>
-                <ab n="15">ἀγῶνες δὲ ποικίλοι συνίσταυται· οὓς μόνος Ὅμηρος ἐν Ἴλιαδι ὠκονόμησε,
-                    ἀρξαμενος ἀπὸ τῆς μήνιδος, μέχρι τῆς Ἑκτορος ἀναιρέσεως· τὰ δὲ πρὸ τῆς μήνιδος
-                    καὶ τὰ μεθ’ Ἕκτορα, ἐν ἐκβολαῖς προ δεδήλωκα ⁑</ab>
+                <ab n="15">ἀγῶνες δὲ ποικίλοι συνίσταυται· οὓς μόνος <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> ἐν <title type="urn" ref="urn:cts:greekLit:tlg0012.tlg001">Ἴλιαδι</title> ὠκονόμησε,
+                    ἀρξαμενος ἀπὸ τῆς μήνιδος, μέχρι τῆς <persName n="urn:cite:hmt:pers.pers172">Ἑκτορος</persName> ἀναιρέσεως· τὰ δὲ πρὸ τῆς μήνιδος
+                    καὶ τὰ μεθ’ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName>, ἐν ἐκβολαῖς προ δεδήλωκα ⁑</ab>
             </div>
 
         </body>
