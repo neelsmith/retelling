@@ -7,7 +7,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Tabula Capitolina</title>
-                <author>Theodorus</author>
+                <author></author>
                 <editor>Brian Clark</editor>
             </titleStmt>
             <publicationStmt>
@@ -27,16 +27,16 @@
             </div>
             
             <div n="contents">
-                <ab n="1">ιλιου περσις</ab>
-                    <ab n="2">κατα στησχορον</ab>
+                <ab n="1"><title>ιλιου περσις</title></ab>
+                <ab n="2">κατα <persName n="urn:cite:hmt:pers.pers339">στησχορον</persName></ab>
                     <ab n="3">τρωικος</ab>
-                    <ab n="4">ιλιας</ab>
-                    <ab n="5">κατα ομηρον</ab>
-                    <ab n="6">αιθιοπις κατα <w part="I">αρκτι</w></ab>
-                    <ab n="7"><w part="F">νον</w> τον μιλησιον</ab>
-                    <ab n="8">ιλιας η μικρας <w part="I"><unclear>λε</unclear></w></ab>
+                    <ab n="4"><title>ιλιας</title></ab>
+                    <ab n="5">κατα <persName n="urn:cite:hmt:pers.pers17">ομηρον</persName></ab>
+                <ab n="6"><title>αιθιοπις</title> κατα <persName n="urn:cite:hmt:pers.pers809"><w part="I">αρκτι</w></persName></ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers809"><w part="F">νον</w></persName> τον <rs type="ethnic" n="urn:cite:hmt:place.place120">μιλησιον</rs></ab>
+                    <ab n="8"><title>ιλιας η μικρας</title> <w part="I"><unclear>λε</unclear></w></ab>
                     <ab n="9"><w part="F">γομενη</w> κατα</ab>
-                    <ab n="10">λεσχην πυρραιον</ab>
+                <ab n="10"><persName n="urn:cite:hmt:pers.pers810">λεσχην</persName> <rs type="ethnic" n="urn:cite:hmt:place.place432">πυρραιον</rs></ab>
             </div>
             
             <div n="stele">
@@ -158,19 +158,19 @@
             </div>
             <div n="Iliad">
                 <div n="iliad_1">
-                <ab n="1">ιερον απόλλωνος ζμινθέως χρυσης</ab>
+                    <ab n="1">ιερον <persName n="urn:cite:hmt:pers.pers40">απόλλωνος</persName> ζμινθέως <persName n="urn:cite:hmt:pers.pers44">χρυσης</persName></ab>
                 <ab n="2">λοιμος</ab>
-                <ab n="3">καλχας <w>αγαμεμν<unclear>ω</unclear>ν</w> νεστωρ
-                    αχιλλευς αθηνα </ab>
-                <ab n="4">οδυσσευς <w><unclear>τη</unclear>ν</w> <w><unclear>εκ</unclear>ατoμβην</w>
-                    τω θεω αγων απολλωνι χρυσηις</ab>
-                <ab n="4">θετις ζ</ab>
+                    <ab n="3"><persName n="urn:cite:hmt:pers.pers74">καλχας</persName> <persName n="urn:cite:hmt:pers.pers22"><w>αγαμεμν<unclear>ω</unclear>ν</w></persName> <persName n="urn:cite:hmt:pers.pers117">νεστωρ</persName>
+                        <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> <persName n="urn:cite:hmt:pers.pers67">αθηνα</persName> </ab>
+                    <ab n="4"><persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName> <w><unclear>τη</unclear>ν</w> <w><unclear>εκ</unclear>ατoμβην</w>
+                        τω θεω αγων <persName n="urn:cite:hmt:pers.pers40">απολλωνι</persName> <persName n="urn:cite:hmt:pers.pers44">χρυσηις</persName></ab>
+                    <ab n="4"><persName n="urn:cite:hmt:pers.pers19">θετις</persName> <persName n="urn:cite:hmt:pers.pers8"><unclear>ζευ</unclear></persName></ab>
                 </div>
                 <div n="iliad_13">
                     <ab></ab>
                 </div>
                 <div n="iliad_14">
-                    <ab>αρχελοχος αιας λοκρoς αιας ποσιδων εκτωρ απολλων</ab></div>
+                    <ab><persName n="urn:cite:hmt:pers.pers510">αρχελοχος</persName> <persName n="urn:cite:hmt:pers.pers281">αιας λοκρoς</persName> <persName n="urn:cite:hmt:pers.pers127">αιας</persName> <persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName> <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> <persName n="urn:cite:hmt:pers.pers40">απολλων</persName></ab></div>
                 <div n="iliad_15">
                     <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:15">Ο</rs> αινηας κλιτος <w>παρ<unclear>ις</unclear></w> ελεος εκτωρ Καλητωρ επι ναυσι μαχη</ab>
                 </div>
@@ -181,71 +181,71 @@
                     <ab></ab>
                 </div>
                 <div n="iliad_18">
-                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:18">Σ</rs> αχιλλευς πατροκλος <w><unclear>θ</unclear>ετις</w> οπλοποια <w><unclear>ηφ</unclear>αιστος</w></ab>
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:18">Σ</rs> <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> <persName n="urn:cite:hmt:pers.pers158">πατροκλος</persName> <persName n="urn:cite:hmt:pers.pers19"><w><unclear>θ</unclear>ετις</w></persName> οπλοποια <persName n="urn:cite:hmt:pers.pers192"><w><unclear>ηφ</unclear>αιστος</w></persName></ab>
                 </div>
                 <div n="iliad_19">
-                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:19">Τ</rs> θε<unclear>τις</unclear> <w><unclear>αχιλλ</unclear>ευς</w> φοινιξ <w><unclear>α</unclear>χιλλευς</w></ab>
+                    <ab><rs type="book" ref="urn:cts:greekLit:tlg0012.tlg001:19">Τ</rs> <persName n="urn:cite:hmt:pers.pers19"><w>θε<unclear>τις</unclear></w></persName> <persName n="urn:cite:hmt:pers.pers1"><w><unclear>αχιλλ</unclear>ευς</w></persName> <persName n="urn:cite:hmt:pers.pers405">φοινιξ</persName> <persName n="urn:cite:hmt:pers.pers1"><w><unclear>α</unclear>χιλλευς</w></persName></ab>
                     <ab>ασπις</ab>
                 </div>
                 <div n="iliad_20">
-                    <ab>ποσιδων αχιλλευς</ab>
+                    <ab><persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName> <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
                 </div>
                 <div n="iliad_21">
-                    <ab><w>σκαμανδρ<unclear>ος</unclear></w> <w>αχ<unclear>ιλλ</unclear>ευς</w> ποσιδων φρυγες</ab>
+                    <ab><persName n="urn:cite:hmt:pers.pers111"><w>σκαμανδρ<unclear>ος</unclear></w></persName> <persName n="urn:cite:hmt:pers.pers1"><w>αχ<unclear>ιλλ</unclear>ευς</w></persName> <persName n="urn:cite:hmt:pers.pers47">ποσιδων</persName> φρυγες</ab>
                 </div>
                 <div n="iliad_22">
-                    <ab><w>αχιλλευ<unclear>ς</unclear></w> <w>εκτω<unclear>ρ</unclear></w> αχιλλευς εκτωρ αχιλλευς</ab>
+                    <ab><persName n="urn:cite:hmt:pers.pers1"><w>αχιλλευ<unclear>ς</unclear></w></persName> <persName n="urn:cite:hmt:pers.pers172"><w>εκτω<unclear>ρ</unclear></w></persName> <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> <persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
                 </div>
                 <div n="iliad_23">
-                    <ab>αχιλλευς καυσις <choice><abbr>Πατροκλο</abbr><expan>Πατροκλου</expan></choice> <w>επιτα<unclear>φι</unclear>ος</w> <choice><abbr>αγ</abbr><expan>αγων</expan></choice></ab>
+                    <ab><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> καυσις <choice><abbr><persName n="urn:cite:hmt:pers.pers158">Πατροκλο</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers158">Πατροκλου</persName></expan></choice> <w>επιτα<unclear>φι</unclear>ος</w> <choice><abbr>αγ</abbr><expan>αγων</expan></choice></ab>
                 </div>
                 <div n="iliad_24">
-                    <ab>εκτωρ και λυτρα εκτ<unclear>ορο</unclear>ς ερμης πριαμος αχιλλευς</ab>
+                    <ab><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> και λυτρα <persName n="urn:cite:hmt:pers.pers172"><w>εκτ<unclear>ορο</unclear>ς</w></persName> <persName n="urn:cite:hmt:pers.pers104">ερμης</persName> <persName n="urn:cite:hmt:pers.pers145">πριαμος</persName> <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName></ab>
                 </div>
                 
             </div>
             <div n="aethiopis_1">
-                <ab n="1">εσιλεια
-                    αχιλλευς </ab>
-                <ab n="2"><w>αχι<unclear>λλε</unclear>υς</w> 
-                    θερστιης  </ab>
-               <ab n="3">αχιλλευς μεμνων <w>αν<unclear></unclear>λοχος</w></ab>
-                <ab n="4">αχιλλευς 
-                    αιας</ab>
-                <ab n="5"><w>οδ<unclear>υ</unclear>σσευς</w> 
-                    αχιλλεω<unclear>ς σωμ</unclear>α  
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers331"><w><damage></damage>εσιλεια</w></persName>
+                    <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> </ab>
+                <ab n="2"><persName n="urn:cite:hmt:pers.pers1"><w>αχι<unclear>λλε</unclear>υς</w></persName> 
+                    <persName n="urn:cite:hmt:pers.pers310">θερστιης</persName>  </ab>
+                <ab n="3"><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> <persName n="urn:cite:hmt:pers.pers177">μεμνων</persName> <persName n="urn:cite:hmt:pers.pers712"><w>αν<unclear></unclear>λοχος</w></persName></ab>
+                <ab n="4"><persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> 
+                    <persName n="urn:cite:hmt:pers.pers127">αιας</persName></ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers118"><w>οδ<unclear>υ</unclear>σσευς</w></persName> 
+                    <persName n="urn:cite:hmt:pers.pers1"><w>αχιλλεω<unclear>ς</unclear></w></persName> <w><unclear>σωμ</unclear>α</w>  
                 </ab>
-                <ab n="6"><unclear></unclear>ουσα αχι<unclear>λλ</unclear>εο 
-                    θε</ab>
-                <ab n="7">αιας 
+                <ab n="6"><unclear></unclear>ουσα <persName n="urn:cite:hmt:pers.pers1">αχι<unclear>λλ</unclear>εο</persName> 
+                    <persName n="urn:cite:hmt:pers.pers19">θε</persName></ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers127">αιας</persName> 
                     μ<unclear></unclear>ης</ab>
             </div>
             <div n="iliasparva_1">
-                <ab n="1">ευρυπυλος νεοπτολεμος </ab>
-                <ab n="2">οδυσσευς διομηδης παλ/λ/α</ab>
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers249">ευρυπυλος</persName> <persName n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName> </ab>
+                <ab n="2"><persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName> <persName n="urn:cite:hmt:pers.pers215">διομηδης</persName> παλ/λ/α</ab>
                 <ab n="3">
                     δουρηος ιππος</ab> 
-                <ab n="4">τρωαδες και φρυγες αναγουσι τον ιππον</ab>
-                <ab n="5">πριαμος σινων</ab>
-                <ab n="6">κασσανδρα σκαια πυλη</ab>
+                <ab n="4"><rs type="ethnic" n="urn:cite:hmt:place.place6">τρωαδες</rs> και φρυγες αναγουσι τον ιππον</ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers145">πριαμος</persName> <persName n="urn:cite:hmt:pers.pers812">σινων</persName></ab>
+                <ab n="6"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName> σκαια πυλη</ab>
             </div>
             <div n="iliupersis_1">
-                <ab n="1">α<unclear>ια</unclear> δουρηος ιππος</ab>
-                <ab n="2"><w>ιερο<damage></damage></w> <w>αφροδιτη<unclear>ς</unclear></w></ab>
-                <ab n="3">αινηας</ab>
-                <ab n="4"><abbr>δη</abbr> <w>α<unclear>ιθ</unclear>ρα</w></ab>
-                <ab n="5"><w>α<unclear>γχ</unclear>εισης</w> ασκανιος αινηας ερμης</ab>
-                <ab n="6">εκτορος ταφος</ab>
-                <ab n="7">ταλθυβιος και τρωαδες</ab>
-                <ab n="8">κασσανδρα ανδρομαχη <w>ελε<unclear>νος</unclear></w></ab>
-                <ab n="9">εκαβη πολυξενη ανδρομαχη ελενος <w>οδυσσε<unclear>υ</unclear>ς</w></ab>
-                <ab n="10">ναυσταθμον αχαιων</ab>
-                <ab n="11">αχιλλεως σημα νεοπτολεμος <w>πο<damage>λυξε</damage>νη</w> οδυσσευς καλχας</ab>
-                <ab n="12">αινηας <w>συ<unclear>ν</unclear></w> τοις <w><unclear>ι</unclear>δ<unclear>ι</unclear>ο<unclear>ι</unclear>ς</w> <w>απα<unclear>ιρων</unclear></w> εις την <w>εσπερ<unclear>ιαν</unclear></w></ab>
-                <ab n="13">αποπλους αινηου</ab>
-                <ab n="14"><w>αγχ<unclear>ι</unclear>σης</w> και τα <w><unclear>ι</unclear>ερα</w></ab>
-                <ab n="15"><w>μ<unclear>ι</unclear>σηνος</w></ab>
-                <ab n="16"><w><unclear>σ</unclear>ειγαιο<unclear>ν</unclear></w></ab>
+                <ab n="1"><persName n="urn:cite:hmt:pers.pers172"><w>α<unclear>ια</unclear></w></persName> δουρηος ιππος</ab>
+                <ab n="2"><w>ιερο<damage></damage></w> <persName n="urn:cite:hmt:pers.pers194"><w>αφροδιτη<unclear>ς</unclear></w></persName></ab>
+                <ab n="3"><persName n="urn:cite:hmt:pers.pers142">αινηας</persName></ab>
+                <ab n="4"><abbr><persName n="urn:cite:hmt:pers.pers797">δη</persName></abbr> <persName n="urn:cite:hmt:pers.pers688"><w>α<unclear>ιθ</unclear>ρα</w></persName></ab>
+                <ab n="5"><persName n="urn:cite:hmt:pers.pers273"><w>α<unclear>γχ</unclear>εισης</w></persName> <persName n="urn:cite:hmt:pers.pers937">ασκανιος</persName> <persName n="urn:cite:hmt:pers.pers142">αινηας</persName> <persName n="urn:cite:hmt:pers.pers104">ερμης</persName></ab>
+                <ab n="6"><persName n="urn:cite:hmt:pers.pers172">εκτορος</persName> ταφος</ab>
+                <ab n="7"><persName n="urn:cite:hmt:pers.pers159">ταλθυβιος</persName> και <rs type="ethnic" n="urn:cite:hmt:place.place6">τρωαδες</rs></ab>
+                <ab n="8"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName> <persName n="urn:cite:hmt:pers.pers171">ανδρομαχη</persName> <persName n="urn:cite:hmt:pers.pers507"><w>ελε<unclear>νος</unclear></w></persName></ab>
+                <ab n="9"><persName n="urn:cite:hmt:pers.pers535">εκαβη</persName> <persName n="urn:cite:hmt:pers.pers799">πολυξενη</persName> <persName n="urn:cite:hmt:pers.pers171">ανδρομαχη</persName> <persName n="urn:cite:hmt:pers.pers507">ελενος</persName> <persName n="urn:cite:hmt:pers.pers118"><w>οδυσσε<unclear>υ</unclear>ς</w></persName></ab>
+                <ab n="10">ναυσταθμον <rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιων</rs></ab>
+                <ab n="11"><persName n="urn:cite:hmt:pers.pers1">αχιλλεως</persName> σημα <persName n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName> <persName n="urn:cite:hmt:pers.pers799"><w>πο<damage>λυξε</damage>νη</w></persName> <persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName> <persName n="urn:cite:hmt:pers.pers74">καλχας</persName></ab>
+                <ab n="12"><persName n="urn:cite:hmt:pers.pers142">αινηας <w>συ<unclear>ν</unclear></w></persName> τοις <w><unclear>ι</unclear>δ<unclear>ι</unclear>ο<unclear>ι</unclear>ς</w> <w>απα<unclear>ιρων</unclear></w> εις την <w>εσπερ<unclear>ιαν</unclear></w></ab>
+                <ab n="13">αποπλους <persName n="urn:cite:hmt:pers.pers142">αινηου</persName></ab>
+                <ab n="14"><persName n="urn:cite:hmt:pers.pers273"><w>αγχ<unclear>ι</unclear>σης</w></persName> και τα <w><unclear>ι</unclear>ερα</w></ab>
+                <ab n="15"><persName><persName n="urn:cite:hmt:pers.pers938"><w>μ<unclear>ι</unclear>σηνος</w></persName></persName></ab>
+                <ab n="16"><placeName n="urn:cite:hmt:place.place424"><w><unclear>σ</unclear>ειγαιο<unclear>ν</unclear></w></placeName></ab>
             </div>
         </body>
     </text>
