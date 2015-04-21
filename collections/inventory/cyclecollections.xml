@@ -7,7 +7,7 @@
     
     
     <!-- IMAGE DATA ********************   -->
-    <citeCollection canonicalId="URN" label="Caption" urn="urn:cite:cycle:tabulaeimgs:">
+    <citeCollection canonicalId="URN" label="Caption" urn="urn:cite:cycle:tabulaeimgs">
         <namespaceMapping
             abbr="hmt"
             fullValue="http://www.homermultitext.org/datans"/>
@@ -28,14 +28,14 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="tabulae.csv"/>
+            value="imgs/tabulaeimgs.csv"/>
         <citeProperty name="URN" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
     </citeCollection>
 
 
-    <citeCollection canonicalId="URN" label="Caption" urn="urn:cite:cycle:capimgs:">
+    <citeCollection canonicalId="URN" label="Caption" urn="urn:cite:hmt:capimgs">
         <namespaceMapping
             abbr="hmt"
             fullValue="http://www.homermultitext.org/datans"/>
@@ -56,7 +56,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="churik.csv"/>
+            value="imgs/churikimgs.csv"/>
         <citeProperty name="URN" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
