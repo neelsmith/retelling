@@ -255,22 +255,22 @@
             <p n="1"> Μετὰ ταῦτά ἐστιν <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> <title type="urn" n="urn:cts:greekLit:tlg0012.tlg002">Ὀδύσσεια</title>· ἔπειτα <title>Τηλεγονίας</title> βιβλία δύο <persName n="urn:cite:hmt:pers.pers804">Εὐγάμμωνος</persName>
                <placeName n="urn:cite:hmt:pers.pers417">Κυρηναίου</placeName>, περιέχοντα τάδε.</p>
             <p n="2">οἱ μνήστορες ὑπὸ τῶν προσηκόντων θάπτονται·</p>
-            <p n="3">καὶ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> θύσας Νύμφαις εἰς Ἦλιν ἀποπλεῖ ἐπισκεψόμενος τὰ βουκόλια, καὶ
-               ξενίζεται παρὰ Πολυξένῳ δῶρόν τε λαμβάνει κρατῆρα, καὶ ἐπὶ τούτῳ τὰ περὶ Τροφώνιον
-               καὶ Ἀγαμήδην καὶ Αὐγέαν.</p>
-            <p n="4">ἔπειτα εἰς Ἰθάκην καταπλεύσας τὰς ὑπὸ Τειρεσίου ῥηθείσας τελεῖ θυσίας.</p>
-            <p n="5">καὶ μετὰ ταῦτα εἰς Θεσπρωτοὺς ἀφικνεῖται καὶ γαμεῖ Καλλιδίκην βασιλίδα τῶν
-               Θεσπρωτῶν.</p>
-            <p n="6">ἔπειτα πόλεμος συνίσταται τοῖς Θεσπρωτοῖς πρὸς Βρύγους, Ὀδυσσέως ἡγουμένου·
-               ἐνταῦθα Ἄρης τοὺς περὶ τὸν Ὀδυσσέα τρέπεται, καὶ αὐτῷ εἰς μάχην Ἀθηνᾶ καθίσταται·
-               τούτους μὲν Ἀπόλλων διαλύει.</p>
-            <p n="7">μετὰ δὲ τὴν Καλλιδίκης τελευτὴν τὴν μὲν βασιλείαν διαδέχεται Πολυποίτης
-               Ὀδυσσέως υἱός, αὐτὸς δ' εἰς Ἰθάκην ἀφικνεῖται·</p>
-            <p n="8">κἀν τούτῳ Τηλέγονος ἐπὶ ζήτησιν τοῦ πατρὸς πλέων, ἀποβὰς εἰς τὴν Ἰθάκην τέμνει
-               τὴν νῆσον· ἐκβοηθήσας δ' Ὀδυσσεὺς ὑπὸ τοῦ παιδὸς ἀναιρεῖται κατ' ἄγνοιαν.</p>
-            <p n="9">Τηλέγονος δ' ἐπιγνοὺς τὴν ἁμαρτίαν τό τε τοῦ πατρὸς σῶμα καὶ τὸν Τηλέμαχον καὶ
-               τὴν Πηνελόπην πρὸς τὴν μητέρα μεθίστησιν· ἡ δὲ αὐτοὺς ἀθανάτους ποιεῖ, καὶ συνοικεῖ
-               τῇ μὲν Πηνελόπῃ Τηλέγονος, Κίρκῃ δὲ Τηλέμαχος.</p>
+            <p n="3">καὶ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> θύσας Νύμφαις εἰς <placeName n="urn:cite:hmt:place.place65">Ἦλιν</placeName> ἀποπλεῖ ἐπισκεψόμενος τὰ βουκόλια, καὶ
+               ξενίζεται παρὰ <persName n="urn:cite:hmt:pers.pers733">Πολυξένῳ</persName> δῶρόν τε λαμβάνει κρατῆρα, καὶ ἐπὶ τούτῳ τὰ περὶ <persName n="urn:cite:hmt:pers.pers246">Τροφώνιον</persName>
+               καὶ <persName n="urn:cite:hmt:pers.pers805">Ἀγαμήδην</persName> καὶ <persName n="urn:cite:hmt:pers.pers594">Αὐγέαν</persName>.</p>
+            <p n="4">ἔπειτα εἰς <placeName n="urn:cite:hmt:place.place63">Ἰθάκην</placeName> καταπλεύσας τὰς ὑπὸ <persName n="urn:cite:hmt:pers.pers801">Τειρεσίου</persName> ῥηθείσας τελεῖ θυσίας.</p>
+            <p n="5">καὶ μετὰ ταῦτα εἰς <rs type="ethnic" n="urn:cite:hmt:place.place73">Θεσπρωτοὺς</rs> ἀφικνεῖται καὶ γαμεῖ <persName n="urn:cite:hmt:pers.pers806">Καλλιδίκην</persName> βασιλίδα τῶν
+               <rs type="ethnic" n="urn:cite:hmt:place.place73">Θεσπρωτῶν</rs>.</p>
+            <p n="6">ἔπειτα πόλεμος συνίσταται τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place73">Θεσπρωτοῖς</rs> πρὸς <rs type="ethnic" n="urn:cite:hmt:place.place434">Βρύγους</rs>, <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> ἡγουμένου·
+               ἐνταῦθα <persName n="urn:cite:hmt:pers.pers83">Ἄρης</persName> τοὺς περὶ τὸν <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέα</persName> τρέπεται, καὶ αὐτῷ εἰς μάχην <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> καθίσταται·
+               τούτους μὲν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName> διαλύει.</p>
+            <p n="7">μετὰ δὲ τὴν <persName n="urn:cite:hmt:pers.pers806">Καλλιδίκης</persName> τελευτὴν τὴν μὲν βασιλείαν διαδέχεται <persName n="urn:cite:hmt:pers.pers807">Πολυποίτης</persName>
+               <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> υἱός, αὐτὸς δ' εἰς <persName n="urn:cite:hmt:place.place63">Ἰθάκην</persName> ἀφικνεῖται·</p>
+            <p n="8">κἀν τούτῳ <persName n="urn:cite:hmt:pers.pers808">Τηλέγονος</persName> ἐπὶ ζήτησιν τοῦ πατρὸς πλέων, ἀποβὰς εἰς τὴν <placeName n="urn:cite:hmt:place.place63">Ἰθάκην</placeName> τέμνει
+               τὴν νῆσον· ἐκβοηθήσας δ' <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> ὑπὸ τοῦ παιδὸς ἀναιρεῖται κατ' ἄγνοιαν.</p>
+            <p n="9"><persName n="urn:cite:hmt:pers.pers808">Τηλέγονος</persName> δ' ἐπιγνοὺς τὴν ἁμαρτίαν τό τε τοῦ πατρὸς σῶμα καὶ τὸν <persName n="urn:cite:hmt:pers.pers271">Τηλέμαχον</persName> καὶ
+               τὴν <persName n="urn:cite:hmt:pers.pers284">Πηνελόπην</persName> πρὸς τὴν μητέρα μεθίστησιν· ἡ δὲ αὐτοὺς ἀθανάτους ποιεῖ, καὶ συνοικεῖ
+               τῇ μὲν <persName n="urn:cite:hmt:pers.pers284">Πηνελόπῃ</persName> <persName n="urn:cite:hmt:pers.pers808">Τηλέγονος</persName>, <persName n="urn:cite:hmt:pers.pers96">Κίρκῃ</persName> δὲ <persName n="urn:cite:hmt:pers.pers271">Τηλέμαχος</persName>.</p>
          </div>
       </body>
    </text>
