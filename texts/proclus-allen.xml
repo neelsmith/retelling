@@ -21,28 +21,28 @@
    <text>
       <body>
          <div n="Homer">
-            <head>Πρόκλου περὶ Ὁμήρου</head>
-            <p n="1"> Ἐπῶν ποιηταὶ γεγόνασι πολλοί· τούτων δ' εἰσὶ κράτιστοι Ὅμηρος Ἡσίοδος
-               Πείσανδρος Πανύασσις Ἀντίμαχος.</p>
-            <p n="2">Ὅμηρος μὲν οὖν τίνων γονέων ἢ ποίας ἐγένετο πατρίδος, οὐ ῥᾴδιον ἀποφήνασθαι·
+            <head><persName n="urn:cite:hmt:pers.pers780">Πρόκλου</persName> περὶ <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName></head>
+            <p n="1"> Ἐπῶν ποιηταὶ γεγόνασι πολλοί· τούτων δ' εἰσὶ κράτιστοι <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
+               <persName n="urn:cite:hmt:pers.pers489">Πείσανδρος</persName> <persName n="urn:cite:hmt:pers.pers779">Πανύασσις</persName> <persName n="urn:cite:hmt:pers.pers7">Ἀντίμαχος</persName>.</p>
+            <p n="2"><persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> μὲν οὖν τίνων γονέων ἢ ποίας ἐγένετο πατρίδος, οὐ ῥᾴδιον ἀποφήνασθαι·
                οὔτε γὰρ αὐτός τι λελάληκεν, ἀλλ' οὐδὲ οἱ περὶ αὐτοῦ εἰπόντες συμπεφωνήκασιν, ἀλλ' ἐκ
                τοῦ μηδὲν ῥητῶς ἐμφαίνειν περὶ τούτων τὴν ποίησιν αὐτοῦ μετὰ πολλῆς ἀδείας ἕκαστος
                οἷς ἠβούλετο ἐχαρίσατο.</p>
-            <p n="3"> καὶ διὰ τοῦτο οἱ μὲν Κολοφώνιον αὐτὸν ἀνηγόρευσαν, οἱ δὲ Χῖον, οἱ δὲ
-               Σμυρναῖον, οἱ δὲ Ἰήτην, ἄλλοι δὲ Κυμαῖον, καὶ καθόλου πᾶσα πόλις ἀντιποιεῖται
+            <p n="3"> καὶ διὰ τοῦτο οἱ μὲν <rs type="ethnic" n="urn:cite:hmt:place.place54">Κολοφώνιον</rs> αὐτὸν ἀνηγόρευσαν, οἱ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place411">Χῖον</rs>, οἱ δὲ
+               <rs type="ethnic" n="urn:cite:hmt:place.place412">Σμυρναῖον</rs>, οἱ δὲ Ἰήτην, ἄλλοι δὲ <rs type="ethnic" n="urn:cite:hmt:place.place413">Κυμαῖον</rs>, καὶ καθόλου πᾶσα πόλις ἀντιποιεῖται
                τἀνδρός, ὅθεν εἰκότως ἂν κοσμοπολίτης λέγοιτο.</p>
-            <p n="4">οἱ μὲν οὖν Σμυρναῖον αὐτὸν ἀποφαινόμενοι Μαίονος μὲν πατρὸς λέγουσιν εἶναι,
-               γεννηθῆναι δὲ ἐπὶ Μέλητος τοῦ ποταμοῦ, ὅθεν καὶ Μελησιγενῆ ὀνομασθῆναι· δοθέντα δὲ
-               Χίοις εἰς ὁμηρείαν Ὅμηρον κληθῆναι. οἱ δὲ ἀπὸ τῆς τῶν ὀμμάτων πηρώσεως τούτου τυχεῖν
-               αὐτόν φασι τοῦ ὀνόματος· τοὺς γὰρ τυφλοὺς ὑπὸ Αἰολέων ὁμήρους καλεῖσθαι.</p>
-            <p n="5">Ἑλλάνικος δὲ καὶ Δαμάστης καὶ Φερεκύδης εἰς Ὀρφέα τὸ γένος ἀνάγουσιν αὐτοῦ·
-               Μαίονα γάρ φασι τὸν Ὁμήρου πατέρα καὶ Δῖον τὸν Ἡσιόδου γενέσθαι Ἀπέλλιδος τοῦ
-               Μελανώπου τοῦ Ἐπιφράδεος τοῦ Χαριφήμου τοῦ Φιλοτέρπεος τοῦ Ἰδμονίδα τοῦ Εὐκλέους τοῦ
-               Δωρίωνος τοῦ Ὀρφέως.</p>
-            <p n="6">Γοργίας δὲ ὁ Λεοντῖνος εἰς Μουσαῖον αὐτὸν ἀνάγει.</p>
+            <p n="4">οἱ μὲν οὖν <rs type="ethnic" n="urn:cite:hmt:place.place412">Σμυρναῖον</rs> αὐτὸν ἀποφαινόμενοι <persName n="urn:cite:hmt:pers.pers781">Μαίονος</persName> μὲν πατρὸς λέγουσιν εἶναι,
+               γεννηθῆναι δὲ ἐπὶ <placeName n="urn:cite:hmt:place.place298">Μέλητος</placeName> τοῦ ποταμοῦ, ὅθεν καὶ <persName n="urn:cite:hmt:pers.pers17">Μελησιγενῆ</persName> ὀνομασθῆναι· δοθέντα δὲ
+               <rs type="ethnic" n="urn:cite:hmt:place.place411">Χίοις</rs> εἰς ὁμηρείαν <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName> κληθῆναι. οἱ δὲ ἀπὸ τῆς τῶν ὀμμάτων πηρώσεως τούτου τυχεῖν
+               αὐτόν φασι τοῦ ὀνόματος· τοὺς γὰρ τυφλοὺς ὑπὸ <rs type="ethnic" n="urn:cite:hmt:place.place77">Αἰολέων</rs> ὁμήρους καλεῖσθαι.</p>
+            <p n="5"><persName n="urn:cite:hmt:pers.pers303">Ἑλλάνικος</persName> δὲ καὶ <persName n="urn:cite:hmt:pers.pers782">Δαμάστης</persName> καὶ <persName n="urn:cite:hmt:pers.pers255">Φερεκύδης</persName> εἰς <persName n="urn:cite:hmt:pers.pers544">Ὀρφέα</persName> τὸ γένος ἀνάγουσιν αὐτοῦ·
+               <persName n="urn:cite:hmt:pers.pers781">Μαίονα</persName> γάρ φασι τὸν <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> πατέρα καὶ <persName n="urn:cite:hmt:pers.pers8">Δῖον</persName> τὸν <persName n="urn:cite:hmt:pers.pers4">Ἡσιόδου</persName> γενέσθαι <persName n="urn:cite:hmt:pers.pers784">Ἀπέλλιδος</persName> τοῦ
+               <persName n="urn:cite:hmt:pers.pers785">Μελανώπου</persName> τοῦ <persName n="urn:cite:hmt:pers.pers786">Ἐπιφράδεος</persName> τοῦ <persName n="urn:cite:hmt:pers.pers787">Χαριφήμου</persName> τοῦ <persName n="urn:cite:hmt:pers.pers788">Φιλοτέρπεος</persName> τοῦ <persName n="urn:cite:hmt:pers.pers789">Ἰδμονίδα</persName> τοῦ <persName n="urn:cite:hmt:pers.pers790">Εὐκλέους</persName> τοῦ
+               <persName n="urn:cite:hmt:pers.pers791">Δωρίωνος</persName> τοῦ <persName n="urn:cite:hmt:pers.pers544">Ὀρφέως</persName>.</p>
+            <p n="6"><persName n="urn:cite:hmt:pers.pers792">Γοργίας</persName> δὲ ὁ <placeName n="urn:cite:hmt:pers.pers144">Λεοντῖνος</placeName> εἰς Μουσαῖον αὐτὸν ἀνάγει.</p>
             <p n="7">περὶ δὲ τῆς τελευτῆς αὐτοῦ λόγος τις φέρεται τοιοῦτος. ἀνελεῖν φασὶν αὐτῷ τὸν
-               θεὸν χρωμένῳ περὶ ἀσφαλείας τάδε· ἔστιν Ἴος νῆσος μητρὸς πατρίς ἥ σε θανόντα δέξεται·
-               ἀλλὰ νέων ἀνδρῶν αἴνιγμα φύλαξαι. λέγουσιν οὖν αὐτὸν εἰς Ἴον πλεύσαντα διατρῖψαι μὲν
+               θεὸν χρωμένῳ περὶ ἀσφαλείας τάδε· ἔστιν <placeName n="urn:cite:hmt:place.place268">Ἴος</placeName> νῆσος μητρὸς πατρίς ἥ σε θανόντα δέξεται·
+               ἀλλὰ νέων ἀνδρῶν αἴνιγμα φύλαξαι. λέγουσιν οὖν αὐτὸν εἰς <placeName n="urn:cite:hmt:place.place268">Ἴον</placeName> πλεύσαντα διατρῖψαι μὲν
                παρὰ Κρεωφύλῳ, γράψαντα δὲ Οἰχαλίας ἅλωσιν τούτῳ χαρίσασθαι, ἥτις νῦν ὡς Κρεωφύλου
                περιφέρεται. καθεζόμενον δὲ ἐπί τινος ἀκτῆς, θεασάμενον ἁλιεῖς προσειπεῖν αὐτοὺς καὶ
                ἀνακρῖναι τοῖσδε τοῖς ἔπεσιν· ἄνδρες ἀπ' Ἀρκαδίης θηρήτορες, ἆρ' ἔχομέν τι;
