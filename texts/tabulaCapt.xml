@@ -203,7 +203,7 @@
                 </div>
                 
             </div>
-            <div n="aethiopis_1">
+            <div n="aethiopis">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers331"><w><damage></damage>εσιλεια</w></persName>
                     <persName n="urn:cite:hmt:pers.pers1">αχιλλευς</persName> </ab>
                 <ab n="2"><persName n="urn:cite:hmt:pers.pers1"><w>αχι<unclear>λλε</unclear>υς</w></persName> 
@@ -219,7 +219,7 @@
                 <ab n="7"><persName n="urn:cite:hmt:pers.pers127">αιας</persName> 
                     μ<unclear></unclear>ης</ab>
             </div>
-            <div n="iliasparva_1">
+            <div n="iliasparva">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers249">ευρυπυλος</persName> <persName n="urn:cite:hmt:pers.pers796">νεοπτολεμος</persName> </ab>
                 <ab n="2"><persName n="urn:cite:hmt:pers.pers118">οδυσσευς</persName> <persName n="urn:cite:hmt:pers.pers215">διομηδης</persName> παλ/λ/α</ab>
                 <ab n="3">
@@ -228,7 +228,7 @@
                 <ab n="5"><persName n="urn:cite:hmt:pers.pers145">πριαμος</persName> <persName n="urn:cite:hmt:pers.pers812">σινων</persName></ab>
                 <ab n="6"><persName n="urn:cite:hmt:pers.pers813">κασσανδρα</persName> σκαια πυλη</ab>
             </div>
-            <div n="iliupersis_1">
+            <div n="iliupersis">
                 <ab n="1"><persName n="urn:cite:hmt:pers.pers172"><w>α<unclear>ια</unclear></w></persName> δουρηος ιππος</ab>
                 <ab n="2"><w>ιερο<damage></damage></w> <persName n="urn:cite:hmt:pers.pers194"><w>αφροδιτη<unclear>ς</unclear></w></persName></ab>
                 <ab n="3"><persName n="urn:cite:hmt:pers.pers142">αινηας</persName></ab>
