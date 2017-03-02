@@ -39,25 +39,25 @@
             </div>
             
             <div n="stele">
-                <ab n="1">οι δ αχαιοι τιχος τεχαι</ab>
+                <ab n="1">οι δ <rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιοι</rs> τιχος τεχαι</ab>
                 <ab n="2">ταφρον ποιουνται <w part="I">πε</w></ab>
                 <ab n="3"><w part="F">ριτας</w> ναυς <w part="I">αμφοτε<unclear>ρ</unclear></w></ab>
                 <ab n="4"><w part="F">ων</w> δ αυτων <w part="I">εξοπλις</w></ab>
                 <ab n="5"><w part="F">θεντων</w> και μαχην εν <w>τ<supplied>ω</supplied></w></ab>
                 <ab n="6">πεδιω <w><unclear>συ</unclear>ναψαντων</w> οι</ab>
-                <ab n="7">τρωες εις το τιχος τους</ab>
-                <ab n="8">αχαιους κατα διωκουσιν</ab>
+                <ab n="7"><rs type="ethnic" n="urn:cite:hmt:place.place6">τρωες</rs> εις το τιχος τους</ab>
+                <ab n="8"><rs type="ethnic" n="urn:cite:hmt:place.place96">αχαιους</rs> κατα διωκουσιν</ab>
                 <ab n="9">και την νυκτ εκεινην επι</ab>
                 <ab n="10"><w>τα<unclear>ισ</unclear></w> ναυσιν ποιουνται <w>τη<unclear>ν</unclear></w></ab>
                 <ab n="11"><w>επα<unclear>υ</unclear>λιν</w> τοις δε των <w part="I">αχα<unclear>ι</unclear></w></ab>
                 <ab n="12"><w part="F">ω<unclear>ν</unclear></w> αριστευσιν <w>δ<unclear>ω</unclear>κει</w> <w part="I">βο</w></ab>
                 <ab n="13"><w part="F">υλευσαμενοις</w> πιι <w part="I">απο</w></ab>
-                <ab n="14"><w part="F">τειλα<unclear>ι</unclear></w> <w><unclear>π</unclear>ρος</w> αχιλλεα <w part="I">α</w></ab>
+                <ab n="14"><w part="F">τειλα<unclear>ι</unclear></w> <w><unclear>π</unclear>ρος</w> <persName n="urn:cite:hmt:pers.pers1">αχιλλεα</persName> <w part="I">α</w></ab>
                 <ab n="15"><w part="F">γαμε<supplied>μ</supplied>νων</w> <w><unclear>δ</unclear>ε</w> δρεας τε</ab>
                 <ab n="16"><w>πολλα<supplied>ς</supplied></w> διδωσι και την</ab>
                 <ab n="17"><w>βρισηι<supplied>δ</supplied>α</w> <w>ο<supplied>ι</supplied></w> δε <w part="I">πεμφθεν</w></ab>
                 <ab n="18"><w part="F">τες</w> προς αυτον <w part="I">οδυσσ</w></ab>
-                <ab n="19"><w part="F">ευς</w> τε και φοινιξ προς</ab>
+                <ab n="19"><w part="F">ευς</w> τε και <persName n="urn:cite:hmt:pers.pers1032">φοινιξ</persName> προς</ab>
                 <ab n="20">δε <w>τουτοι<unclear>σ</unclear></w> <w>αια<unclear>ς</unclear></w> <w part="I">απαγγ<supplied>ε</supplied></w></ab>
                 <ab n="21"><w part="F">λλουσιν</w> αχιλλει τους <w part="I">λ<supplied>ο</supplied></w></ab>
                 <ab n="22"><w part="F">γους</w> τους <w>λ<supplied>ογους</supplied></w> παρ <w part="I">αγ</w></ab>
