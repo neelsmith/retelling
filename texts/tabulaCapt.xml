@@ -22,7 +22,7 @@
             <div n="preface">
       
                 
-                <ab n="1"><gap></gap>ρηον μαθε ταξιν Ομηρος οφρα δαεις πασης μετρον εχης σοφ<unclear></unclear>ας </ab>
+                <ab n="1"><gap></gap>ρηον μαθε ταξιν <persName n="urn:cite:hmt:pers.pers17">Ομηρος</persName> οφρα δαεις πασης μετρον εχης σοφ<unclear></unclear>ας </ab>
             </div>
             
             <div n="contents">
@@ -50,7 +50,7 @@
                 <ab n="9">και την νυκτ εκεινην επι</ab>
                 <ab n="10"><w>τα<unclear>ισ</unclear></w> ναυσιν ποιουνται <w>τη<unclear>ν</unclear></w></ab>
                 <ab n="11"><w>επα<unclear>υ</unclear>λιν</w> τοις δε των <w part="I">αχα<unclear>ι</unclear></w></ab>
-                <ab n="12"><w part="F">ω<unclear>ν</unclear></w> αριστευσιν <w>δ<unclear>ω</unclear>κει</w> <w part="I">βο</w></ab>
+                <ab n="12"><w part="F">ω<unclear>ν</unclear>/persName></w> αριστευσιν <w>δ<unclear>ω</unclear>κει</w> <w part="I">βο</w></ab>
                 <ab n="13"><w part="F">υλευσαμενοις</w> πιι <w part="I">απο</w></ab>
                 <ab n="14"><w part="F">τειλα<unclear>ι</unclear></w> <w><unclear>π</unclear>ρος</w> <persName n="urn:cite:hmt:pers.pers1">αχιλλεα</persName> <w part="I">α</w></ab>
                 <ab n="15"><w part="F">γαμε<supplied>μ</supplied>νων</w> <w><unclear>δ</unclear>ε</w> δρεας τε</ab>
@@ -88,7 +88,7 @@
                 <ab n="47"><w part="F">κλος</w> <w>δ<unclear>ε</unclear></w> <w>πεμ<supplied>φθ</supplied>εις</w> <supplied>παρ</supplied> <w part="I">αχ</w></ab>
                 <ab n="48"><w part="F">ιλλεως</w> <w>πυνθαν<unclear>ε</unclear><supplied>ται</supplied></w> <w part="I">νες</w></ab>
                 <ab n="49"><w part="F">τορος</w> <w><unclear>τ</unclear>α</w> <w>περ<unclear>ι</unclear></w> <w>τ<unclear>ην</unclear></w> <w><supplied>μαχη</supplied><unclear>ν</unclear></w></ab>
-                <ab n="50">εκτωρ <w>δ<supplied>ε</supplied></w> <w><supplied>ρ</supplied><unclear>η</unclear>ξας</w> <w>τα<supplied>ς</supplied></w> <supplied>καθ</supplied>  <w part="I"><supplied>αυ</supplied></w></ab>
+                <ab n="50"><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> <w>δ<supplied>ε</supplied></w> <w><supplied>ρ</supplied><unclear>η</unclear>ξας</w> <w>τα<supplied>ς</supplied></w> <supplied>καθ</supplied>  <w part="I"><supplied>αυ</supplied></w></ab>
                 <ab n="51">τον πυλας  <supplied>εις το</supplied> <w>τ<supplied>ιχος</supplied></w> <w part="I">εις</w></ab>
                 <ab n="52">πιπτι των <w><supplied>ε</supplied>λ<supplied>λ</supplied>νων</w> και</ab>
                 <ab n="53">μαχην σ<supplied>υν</supplied>απτε<unclear>ι</unclear> <supplied>προς των</supplied></ab>
@@ -111,37 +111,37 @@
                 <ab n="70"><w part="F">υς</w>  αποντεινι και <w part="I">σαρπηδ<supplied>ο</supplied></w></ab>
                 <ab n="71"><w part="F">να</w> τον διος τους δε <w part="I">λοιπ<supplied>ου</supplied></w></ab>
                 <ab n="72"><w part="F">ς</w> <w><unclear>ει</unclear>ς</w> το <w>τ<unclear>ι</unclear>χος</w> <w><supplied>κατ</supplied><unclear>α</unclear>διωκε<unclear>ι</unclear></w></ab>
-                <ab n="73">εκτωρ δ αυτον <w><supplied>παταξ</supplied>ας</w> <w part="I">α</w></ab>
-                <ab n="74"></ab>
-                <ab n="75"></ab>
-                <ab n="76"></ab>
-                <ab n="77"></ab>
-                <ab n="78"></ab>
-                <ab n="79"></ab>
-                <ab n="80"></ab>
-                <ab n="81"></ab>
-                <ab n="82"></ab>
-                <ab n="83"></ab>
-                <ab n="84"></ab>
-                <ab n="85"></ab>
-                <ab n="86"></ab>
-                <ab n="87"></ab>
-                <ab n="88"></ab>
-                <ab n="89"></ab>
-                <ab n="90"></ab>
-                <ab n="91"></ab>
-                <ab n="92"></ab>
-                <ab n="93"></ab>
-                <ab n="94"></ab>
-                <ab n="95"></ab>
-                <ab n="96"></ab>
-                <ab n="97"></ab>
-                <ab n="98"></ab>
-                <ab n="99"></ab>
-                <ab n="100"></ab>
-                <ab n="101"></ab>
-                <ab n="102"></ab>
-                <ab n="103">τορα λυτρουται παρ αχιλ</ab>
+                <ab n="73"><persName n="urn:cite:hmt:pers.pers172">εκτωρ</persName> δ αυτον <w><supplied>παταξ</supplied>ας</w> <w part="I">α</w></ab>
+                <ab n="74">ποκτε<supplied>ίνει καὶ τῶν ὅπλων <w part="I">ἐγ</w></supplied></ab>
+                <ab n="75"><w part="F">κρατὴ<supplied>ς</supplied></w> <w><supplied>γ</supplied>εί<supplied>νεται</supplied></w> <supplied>μάχης</supplied> <w part="I"><supplied>δ</supplied></w></ab>
+                <ab n="76"><w part="F"><unclear>ὲ</unclear></w> <supplied>περὶ</supplied> τοῦ νεκροῦ <w part="I">γενομέ</w></ab>
+                <ab n="77"><w part="F">νης</w> <w>Ἀν̣<supplied>τίλοχ̣ος</supplied></w> <w part="I"><supplied>ἀπανγέ</supplied>λ</w></ab>
+                <ab n="78"><w part="F">λι</w> <w>Ἀχιλ<supplied>λεῖ</supplied></w> <unclear></unclear></ab>
+                <ab n="79"><w part="F"><unclear>ε</unclear>ως</w> <supplied>ἡ δὲ Θέτις</supplied> ἔρχεται <w part="I">π<unclear>ρ</unclear></w></ab>
+                <ab n="80"><w part="F">ὸς</w> <w>Ἥφα<unclear>ι</unclear><supplied>στον</supplied></w> <w><supplied>αἰτ</supplied>ήσουσα</w></ab>
+                <ab n="81"><w>παντε<unclear>υχ</unclear><supplied>ίαν</supplied></w> ὃ δ αὐ <unclear>τῇ</unclear> <w part="I"><supplied>προ</supplied></w></ab>
+                <ab n="82"><w part="F"><supplied>θύ</supplied><unclear>μ</unclear>ως</w> <w>ποι<supplied>εῖ</supplied></w> <supplied>οἱ</supplied> <unclear>δ</unclear> <supplied>Ἀχαιοὶ τὸ</supplied></ab>
+                <ab n="83">σῶμα τοῦ <w>Π<supplied>ατρό</supplied><unclear>κλ</unclear><supplied>ου</supplied></w> <supplied>ἐπὶ</supplied> <w part="I"><supplied>τὰ</supplied></w></ab>
+                <ab n="84"><w part="F"><supplied>ς</supplied></w> <w><supplied>να</supplied>ῦς</w> <w><supplied>διακομίζ</supplied>ουσιν</w> τ<unclear>ῶ</unclear>ν</ab>
+                <ab n="85"><supplied>δ ὅπλων</supplied> <w><unclear>ὑ</unclear><supplied>πὸ</supplied></w> <w><supplied>τῆ</supplied>ς</w> τῆς <w part="I">Θέτι<unclear>δ</unclear></w></ab>
+                <ab n="86"><w part="F"><supplied>ος</supplied></w> <w>ἐνεχ<unclear>θ</unclear><supplied>έντων</supplied></w> <supplied>τὴν</supplied> <w part="I"><supplied>Βρι</supplied></w></ab>
+                <ab n="87"><w part="F"><unclear>σηί</unclear>δα</w> <w>Ἀγα<unclear>μ</unclear><supplied>έμνων</supplied></w> Ἀχιλλεῖ</ab>
+                <ab n="88"><w><supplied>δί</supplied>δωσιν</w> <w>Ἀχ<supplied>ιλλεὺς</supplied></w> <w><supplied>δ</supplied><unclear>ὲ</unclear></w> <w>εἰ<unclear>ς</unclear></w></ab>
+                <ab n="89">τὸν <w>Σκά<unclear>μ</unclear><supplied>ανδρον</supplied></w> <w part="I"><supplied>κατ</supplied>αδ<unclear>ι</unclear>ώ</w></ab>
+                <ab n="90"><w part="F">ξας</w> <w>Ἀστερο<unclear>π</unclear><supplied>αῖ</supplied><unclear>ον</unclear></w> <w part="I"><unclear>ἀπο</unclear>κτ</w></ab>
+                <ab n="91"><w><supplied>είν</supplied>ει</w> Ἀχιλλεὺς δὲ <unclear>τὸν ἐν</unclear></ab>
+                <ab n="92"><supplied>τῶι</supplied> <w><supplied>ποτ</supplied>αμῶι</w> <w part="I">δια<unclear>φυγ</unclear>ὼ</w></ab>
+                <ab n="93"><w part="F"><supplied>ν</supplied></w> <supplied>κίνδυνον</supplied> Ἕκτορα <w part="I">μονομ</w></ab>
+                <ab n="94"><w part="F"><supplied>αχῶν</supplied></w> <w><supplied>ἀπο</supplied>κτίνει</w> καὶ τὰ <w>ὅπλ<unclear>α</unclear></w></ab>
+                <ab n="95"><w><supplied>ἀναλαμ</supplied><unclear>β</unclear>άνει</w> καὶ τὸν <w part="I">νεκρ</w></ab>
+                <ab n="96"><w part="F"><supplied>ὸν</supplied></w> <w><supplied>ἐκ</supplied>δησάμενος</w> ἐκ τοῦ <w part="I">δ</w></ab>
+                <ab n="97"><w part="F"><supplied>ίφρο</supplied><unclear>υ</unclear></w> διὰ τοῦ πεδίου ἕλκει</ab>
+                <ab n="98">||ἐπὶ τὰς ν||αῦς· καὶ τὸν Π’άτ’-</ab>
+                <ab n="99">ροκλον <w>θ<unclear>ά</unclear>ψας</w> <w>τίθ<unclear>ησιν</unclear></w></ab>
+                <ab n="100"><supplied>ἐπ</supplied> αὐτ̣ῶι <w><supplied>ἀ</supplied>γῶνα</w> τῶν <w part="I">ἀρισ</w></ab>
+                <ab n="101"><w part="F">τέω<unclear>ν</unclear></w> ὁ δὲ <w>Π<unclear>ρί</unclear>αμος</w> ἐπὶ <supplied>τὰς</supplied></ab>
+                <ab n="102"><supplied>ναῦς</supplied> <w><supplied>παραγ</supplied>ενόμενος</w> <w part="I"><unclear>Ἕκ</unclear></w></ab>
+                <ab n="103"><w part="F">τορα</w> λυτρουται παρ <w part="I">αχιλ</w></ab>
                 <ab n="104"><w part="F"><unclear>λε</unclear>ως</w> επανελθοντος δε</ab>
                 <ab n="105"><unclear>του</unclear> <persName n="urn:cite:hmt:pers.pers145">Πριαμου</persName> <w>παλ<unclear>ιν</unclear></w> <supplied>εις</supplied></ab>
                 <ab n="106">την πολιν <w>θαπτ<unclear>ου</unclear><supplied>σιν</supplied></w></ab>
